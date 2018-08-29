@@ -1,0 +1,34 @@
+{
+  "name": "pokecord.io",
+  "version": "1.0.0",
+  "description": "pokecord catch bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node . -b",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingsDevelopment/pokecord.io.git"
+  },
+  "keywords": [
+    "pokecord",
+    "bot"
+  ],
+  "author": "Jurien Hamaker <jurien@kings-dev.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KingsDevelopment/pokecord.io/issues"
+  },
+  "homepage": "https://github.com/KingsDevelopment/pokecord.io#readme",
+  "dependencies": {
+    "commander": "^2.17.1",
+    "discord.js": "^11.4.2",
+    "image-downloader": "^3.4.1",
+    "moment": "^2.22.2",
+    "needle": "^2.2.2",
+    "pngjs": "^3.3.3",
+    "resemblejs": "^2.10.3",
+    "rimraf": "^2.6.2"
+  }
+}
