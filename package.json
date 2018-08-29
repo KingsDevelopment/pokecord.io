@@ -28,7 +28,9 @@
     "moment": "^2.22.2",
     "needle": "^2.2.2",
     "pngjs": "^3.3.3",
-    "resemblejs": "^2.10.3",
-    "rimraf": "^2.6.2"
+    "pixelmatch": "^4.0.2",
+    "rimraf": "^2.6.2",
+    "lodash": "^4.17.10",
+    "@a-sync/opencv4nodejs": "^4.7.2"
   }
 }

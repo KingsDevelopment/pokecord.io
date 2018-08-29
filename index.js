@@ -22,8 +22,8 @@ const run = async () => {
 
 	if(commander.bot) {
 		console.log("running bot");
-		await resemble('https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png')
-		return;
+		return resemble('https://i.imgur.com/8H7M1yT.png')
+		// return;
 	}
 
 	commander.outputHelp();
