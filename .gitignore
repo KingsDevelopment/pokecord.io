@@ -64,3 +64,4 @@ typings/
 images/*
 !images/.gitkeep
 package-lock.json
+temp/*
