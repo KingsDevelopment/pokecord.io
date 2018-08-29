@@ -10,7 +10,7 @@ COPY package.json /opt/app
 RUN npm install -g npm
 RUN npm install
 
-COPY ./docker-entrypoint.sh /
+COPY ./docker/entrypoint.sh /
 COPY . /opt/app
 
-ENTRYPOINT ["/bin/sh", /docker-entrypoint.sh"]
+ENTRYPOINT ["/bin/bash", /entrypoint.sh"]
