@@ -63,5 +63,4 @@ typings/
 package-lock.json
 temp/*
 config.json
-pokemons.json
 package-lock.json

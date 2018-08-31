@@ -1,0 +1,6450 @@
+[
+	{
+		"name": "bulbasaur",
+		"number": "001",
+		"id": 1,
+		"hashes": [
+			"f980d191f18180f5"
+		]
+	},
+	{
+		"name": "ivysaur",
+		"number": "002",
+		"id": 2,
+		"hashes": [
+			"c7c1c385c9c1c1d1"
+		]
+	},
+	{
+		"name": "venusaur",
+		"number": "003",
+		"id": 3,
+		"hashes": [
+			"ff81e381b1c1c1ff"
+		]
+	},
+	{
+		"name": "charmander",
+		"number": "004",
+		"id": 4,
+		"hashes": [
+			"8f878d8585c58393"
+		]
+	},
+	{
+		"name": "charmeleon",
+		"number": "005",
+		"id": 5,
+		"hashes": [
+			"c7c7cb81a1c38387"
+		]
+	},
+	{
+		"name": "charizard",
+		"number": "006",
+		"id": 6,
+		"hashes": [
+			"ff819dc0c68381ff"
+		]
+	},
+	{
+		"name": "squirtle",
+		"number": "007",
+		"id": 7,
+		"hashes": [
+			"c7878783a3c180b7"
+		]
+	},
+	{
+		"name": "wartortle",
+		"number": "008",
+		"id": 8,
+		"hashes": [
+			"9383c78181f181d9"
+		]
+	},
+	{
+		"name": "blastoise",
+		"number": "009",
+		"id": 9,
+		"hashes": [
+			"e1a1c385838b03b3"
+		]
+	},
+	{
+		"name": "caterpie",
+		"number": "010",
+		"id": 10,
+		"hashes": [
+			"47078783c2c6c1e1"
+		]
+	},
+	{
+		"name": "metapod",
+		"number": "011",
+		"id": 11,
+		"hashes": [
+			"9f8f8f038783c1f0"
+		]
+	},
+	{
+		"name": "butterfree",
+		"number": "012",
+		"id": 12,
+		"hashes": [
+			"df001a8e8dc1c1c3"
+		]
+	},
+	{
+		"name": "weedle",
+		"number": "013",
+		"id": 13,
+		"hashes": [
+			"ef8787878d89c1e1"
+		]
+	},
+	{
+		"name": "kakuna",
+		"number": "014",
+		"id": 14,
+		"hashes": [
+			"c3c3c3c3c3c3c3e7"
+		]
+	},
+	{
+		"name": "beedrill",
+		"number": "015",
+		"id": 15,
+		"hashes": [
+			"d1c1e1c183d191fd"
+		]
+	},
+	{
+		"name": "pidgey",
+		"number": "016",
+		"id": 16,
+		"hashes": [
+			"8f0f0f85c1878387"
+		]
+	},
+	{
+		"name": "pidgeotto",
+		"number": "017",
+		"id": 17,
+		"hashes": [
+			"b98183c3c70783e7"
+		]
+	},
+	{
+		"name": "pidgeot",
+		"number": "018",
+		"id": 18,
+		"hashes": [
+			"3b09c3e0e0e18387"
+		]
+	},
+	{
+		"name": "rattata",
+		"number": "019",
+		"id": 19,
+		"hashes": [
+			"f3f1d581c1d1c0ef"
+		]
+	},
+	{
+		"name": "raticate",
+		"number": "020",
+		"id": 20,
+		"hashes": [
+			"df018783a3c183e7"
+		]
+	},
+	{
+		"name": "spearow",
+		"number": "021",
+		"id": 21,
+		"hashes": [
+			"f111d1838387c1c9"
+		]
+	},
+	{
+		"name": "fearow",
+		"number": "022",
+		"id": 22,
+		"hashes": [
+			"cfc0c9c1c38321f3"
+		]
+	},
+	{
+		"name": "ekans",
+		"number": "023",
+		"id": 23,
+		"hashes": [
+			"8f0586c6c39181c7"
+		]
+	},
+	{
+		"name": "arbok",
+		"number": "024",
+		"id": 24,
+		"hashes": [
+			"c3c1c1e1e1a181f1"
+		]
+	},
+	{
+		"name": "pikachu",
+		"number": "025",
+		"id": 25,
+		"hashes": [
+			"9f80c58983c383c3"
+		]
+	},
+	{
+		"name": "raichu",
+		"number": "026",
+		"id": 26,
+		"hashes": [
+			"37078f03818f1f9f"
+		]
+	},
+	{
+		"name": "sandshrew",
+		"number": "027",
+		"id": 27,
+		"hashes": [
+			"87878783a1a303f3"
+		]
+	},
+	{
+		"name": "sandslash",
+		"number": "028",
+		"id": 28,
+		"hashes": [
+			"e3c0c3838387c7df"
+		]
+	},
+	{
+		"name": "nidoran",
+		"number": "029",
+		"id": 29,
+		"hashes": [
+			"eb80a1a9d18381e3"
+		]
+	},
+	{
+		"name": "nidorina",
+		"number": "030",
+		"id": 30,
+		"hashes": [
+			"c7c0e1c1c3838387"
+		]
+	},
+	{
+		"name": "nidoqueen",
+		"number": "031",
+		"id": 31,
+		"hashes": [
+			"e1c1e38191d1819d"
+		]
+	},
+	{
+		"name": "nidoran",
+		"number": "032",
+		"id": 32,
+		"hashes": [
+			"cb81c383e18381e9"
+		]
+	},
+	{
+		"name": "nidorino",
+		"number": "033",
+		"id": 33,
+		"hashes": [
+			"bb01a383c1c38399"
+		]
+	},
+	{
+		"name": "nidoking",
+		"number": "034",
+		"id": 34,
+		"hashes": [
+			"ff83c781e1c181ff"
+		]
+	},
+	{
+		"name": "clefairy",
+		"number": "035",
+		"id": 35,
+		"hashes": [
+			"9f80a5c1a59181d3"
+		]
+	},
+	{
+		"name": "clefable",
+		"number": "036",
+		"id": 36,
+		"hashes": [
+			"bf0085a999c181d3"
+		]
+	},
+	{
+		"name": "vulpix",
+		"number": "037",
+		"id": 37,
+		"hashes": [
+			"8f038791c1c583c3"
+		]
+	},
+	{
+		"name": "ninetales",
+		"number": "038",
+		"id": 38,
+		"hashes": [
+			"f980c18783c381e3"
+		]
+	},
+	{
+		"name": "jigglypuff",
+		"number": "039",
+		"id": 39,
+		"hashes": [
+			"8f83d78093838393"
+		]
+	},
+	{
+		"name": "wigglytuff",
+		"number": "040",
+		"id": 40,
+		"hashes": [
+			"9d81c3c1c9c1c1c3"
+		]
+	},
+	{
+		"name": "zubat",
+		"number": "041",
+		"id": 41,
+		"hashes": [
+			"cf0683e1e0d4c6e7"
+		]
+	},
+	{
+		"name": "golbat",
+		"number": "042",
+		"id": 42,
+		"hashes": [
+			"7f18998983c387ef"
+		]
+	},
+	{
+		"name": "oddish",
+		"number": "043",
+		"id": 43,
+		"hashes": [
+			"8f81c1c3038f8f8f"
+		]
+	},
+	{
+		"name": "gloom",
+		"number": "044",
+		"id": 44,
+		"hashes": [
+			"ffc2c3c1c1c3c3ff"
+		]
+	},
+	{
+		"name": "vileplume",
+		"number": "045",
+		"id": 45,
+		"hashes": [
+			"f1c0c5c183c3c1c9"
+		]
+	},
+	{
+		"name": "paras",
+		"number": "046",
+		"id": 46,
+		"hashes": [
+			"ff81c3c180f333ff"
+		]
+	},
+	{
+		"name": "parasect",
+		"number": "047",
+		"id": 47,
+		"hashes": [
+			"e3e1e1c181b31077"
+		]
+	},
+	{
+		"name": "venonat",
+		"number": "048",
+		"id": 48,
+		"hashes": [
+			"e703c3c1c1e1c1c9"
+		]
+	},
+	{
+		"name": "venomoth",
+		"number": "049",
+		"id": 49,
+		"hashes": [
+			"fffc798183c3c3ff"
+		]
+	},
+	{
+		"name": "diglett",
+		"number": "050",
+		"id": 50,
+		"hashes": [
+			"c3c1c3c1c38500f7"
+		]
+	},
+	{
+		"name": "dugtrio",
+		"number": "051",
+		"id": 51,
+		"hashes": [
+			"e3e1c383c1c300f7"
+		]
+	},
+	{
+		"name": "meowth",
+		"number": "052",
+		"id": 52,
+		"hashes": [
+			"c781c1c3c78181e7"
+		]
+	},
+	{
+		"name": "persian",
+		"number": "053",
+		"id": 53,
+		"hashes": [
+			"f1f1f121c38582d3"
+		]
+	},
+	{
+		"name": "psyduck",
+		"number": "054",
+		"id": 54,
+		"hashes": [
+			"e3c3c391e1c181c7"
+		]
+	},
+	{
+		"name": "golduck",
+		"number": "055",
+		"id": 55,
+		"hashes": [
+			"c7c3c7a0c1c381f1"
+		]
+	},
+	{
+		"name": "mankey",
+		"number": "056",
+		"id": 56,
+		"hashes": [
+			"ff0595c4c193f3ff"
+		]
+	},
+	{
+		"name": "primeape",
+		"number": "057",
+		"id": 57,
+		"hashes": [
+			"c7c3a31391e181cf"
+		]
+	},
+	{
+		"name": "growlithe",
+		"number": "058",
+		"id": 58,
+		"hashes": [
+			"f1e1e1c1c3c1c1c3"
+		]
+	},
+	{
+		"name": "arcanine",
+		"number": "059",
+		"id": 59,
+		"hashes": [
+			"9f038f81a383818f"
+		]
+	},
+	{
+		"name": "poliwag",
+		"number": "060",
+		"id": 60,
+		"hashes": [
+			"ff0f0f0787c180ff"
+		]
+	},
+	{
+		"name": "poliwhirl",
+		"number": "061",
+		"id": 61,
+		"hashes": [
+			"3f0383c381c783f3"
+		]
+	},
+	{
+		"name": "poliwrath",
+		"number": "062",
+		"id": 62,
+		"hashes": [
+			"ffc3e38103cb91ff"
+		]
+	},
+	{
+		"name": "abra",
+		"number": "063",
+		"id": 63,
+		"hashes": [
+			"ffc3e2e0e18381ff"
+		]
+	},
+	{
+		"name": "kadabra",
+		"number": "064",
+		"id": 64,
+		"hashes": [
+			"c3c3c5c1878381cd"
+		]
+	},
+	{
+		"name": "alakazam",
+		"number": "065",
+		"id": 65,
+		"hashes": [
+			"cf80c383c199919b"
+		]
+	},
+	{
+		"name": "machop",
+		"number": "066",
+		"id": 66,
+		"hashes": [
+			"f38183c5c1c3c3e7"
+		]
+	},
+	{
+		"name": "machoke",
+		"number": "067",
+		"id": 67,
+		"hashes": [
+			"c7c3c3a183c39199"
+		]
+	},
+	{
+		"name": "machamp",
+		"number": "068",
+		"id": 68,
+		"hashes": [
+			"9f91c38383c59313"
+		]
+	},
+	{
+		"name": "bellsprout",
+		"number": "069",
+		"id": 69,
+		"hashes": [
+			"c7c7c78181e3811f"
+		]
+	},
+	{
+		"name": "weepinbell",
+		"number": "070",
+		"id": 70,
+		"hashes": [
+			"ff019d8181c7c7ff"
+		]
+	},
+	{
+		"name": "victreebel",
+		"number": "071",
+		"id": 71,
+		"hashes": [
+			"cf838783819b01e7"
+		]
+	},
+	{
+		"name": "tentacool",
+		"number": "072",
+		"id": 72,
+		"hashes": [
+			"ffc3c3c2e0e13fff"
+		]
+	},
+	{
+		"name": "tentacruel",
+		"number": "073",
+		"id": 73,
+		"hashes": [
+			"ffc3c3c1c3c181ff"
+		]
+	},
+	{
+		"name": "geodude",
+		"number": "074",
+		"id": 74,
+		"hashes": [
+			"fffffd0001afffff"
+		]
+	},
+	{
+		"name": "graveler",
+		"number": "075",
+		"id": 75,
+		"hashes": [
+			"ffffe78081a7ffff"
+		]
+	},
+	{
+		"name": "golem",
+		"number": "076",
+		"id": 76,
+		"hashes": [
+			"e3c0e1e0c1c388f8"
+		]
+	},
+	{
+		"name": "ponyta",
+		"number": "077",
+		"id": 77,
+		"hashes": [
+			"c7878bc1c1c3c3c3"
+		]
+	},
+	{
+		"name": "rapidash",
+		"number": "078",
+		"id": 78,
+		"hashes": [
+			"f18183c389e181e3"
+		]
+	},
+	{
+		"name": "slowpoke",
+		"number": "079",
+		"id": 79,
+		"hashes": [
+			"ffe1f980e58100ff"
+		]
+	},
+	{
+		"name": "slowbro",
+		"number": "080",
+		"id": 80,
+		"hashes": [
+			"8785c9c181e981b3"
+		]
+	},
+	{
+		"name": "magnemite",
+		"number": "081",
+		"id": 81,
+		"hashes": [
+			"ffffe4e01387ffff"
+		]
+	},
+	{
+		"name": "magneton",
+		"number": "082",
+		"id": 82,
+		"hashes": [
+			"9d81d189a1c383c3"
+		]
+	},
+	{
+		"name": "farfetchd",
+		"number": "083",
+		"id": 83,
+		"hashes": [
+			"970383c3c1e1c1e1"
+		]
+	},
+	{
+		"name": "doduo",
+		"number": "084",
+		"id": 84,
+		"hashes": [
+			"f9e383e3e3e3e3e3"
+		]
+	},
+	{
+		"name": "dodrio",
+		"number": "085",
+		"id": 85,
+		"hashes": [
+			"c38381c7e1e1c3c3"
+		]
+	},
+	{
+		"name": "seel",
+		"number": "086",
+		"id": 86,
+		"hashes": [
+			"e1e0e0e1e18300ef"
+		]
+	},
+	{
+		"name": "dewgong",
+		"number": "087",
+		"id": 87,
+		"hashes": [
+			"f381918e07a381e3"
+		]
+	},
+	{
+		"name": "grimer",
+		"number": "088",
+		"id": 88,
+		"hashes": [
+			"ffc7c38383e180ff"
+		]
+	},
+	{
+		"name": "muk",
+		"number": "089",
+		"id": 89,
+		"hashes": [
+			"ffffc7818587ffff"
+		]
+	},
+	{
+		"name": "shellder",
+		"number": "090",
+		"id": 90,
+		"hashes": [
+			"f301b981c98381cf"
+		]
+	},
+	{
+		"name": "cloyster",
+		"number": "091",
+		"id": 91,
+		"hashes": [
+			"fc0183c3c1c3c1c5"
+		]
+	},
+	{
+		"name": "gastly",
+		"number": "092",
+		"id": 92,
+		"hashes": [
+			"ef81c383c99183c3"
+		]
+	},
+	{
+		"name": "haunter",
+		"number": "093",
+		"id": 93,
+		"hashes": [
+			"efe7e1c121e3e1f3"
+		]
+	},
+	{
+		"name": "gengar",
+		"number": "094",
+		"id": 94,
+		"hashes": [
+			"9f039383a18703c7"
+		]
+	},
+	{
+		"name": "onix",
+		"number": "095",
+		"id": 95,
+		"hashes": [
+			"a781819d98b1e3f1"
+		]
+	},
+	{
+		"name": "drowzee",
+		"number": "096",
+		"id": 96,
+		"hashes": [
+			"8783c1c3c383819b"
+		]
+	},
+	{
+		"name": "hypno",
+		"number": "097",
+		"id": 97,
+		"hashes": [
+			"df0085e1c5838393"
+		]
+	},
+	{
+		"name": "krabby",
+		"number": "098",
+		"id": 98,
+		"hashes": [
+			"fff9998981d924ff"
+		]
+	},
+	{
+		"name": "kingler",
+		"number": "099",
+		"id": 99,
+		"hashes": [
+			"fff3f121a1993cff"
+		]
+	},
+	{
+		"name": "voltorb",
+		"number": "100",
+		"id": 100,
+		"hashes": [
+			"c781f12189b181c7"
+		]
+	},
+	{
+		"name": "electrode",
+		"number": "101",
+		"id": 101,
+		"hashes": [
+			"c3a1b0e87c8181c7"
+		]
+	},
+	{
+		"name": "exeggcute",
+		"number": "102",
+		"id": 102,
+		"hashes": [
+			"ff81c1d2cc91e1ff"
+		]
+	},
+	{
+		"name": "exeggutor",
+		"number": "103",
+		"id": 103,
+		"hashes": [
+			"d1c1c38383c3c1c3"
+		]
+	},
+	{
+		"name": "cubone",
+		"number": "104",
+		"id": 104,
+		"hashes": [
+			"c1c3c1c3c1c9818f"
+		]
+	},
+	{
+		"name": "marowak",
+		"number": "105",
+		"id": 105,
+		"hashes": [
+			"9f878783c3a1c1d1"
+		]
+	},
+	{
+		"name": "hitmonlee",
+		"number": "106",
+		"id": 106,
+		"hashes": [
+			"8f8c84cbcfcfcfcf"
+		]
+	},
+	{
+		"name": "hitmonchan",
+		"number": "107",
+		"id": 107,
+		"hashes": [
+			"d381c1e1e1e3e3e7"
+		]
+	},
+	{
+		"name": "lickitung",
+		"number": "108",
+		"id": 108,
+		"hashes": [
+			"c781c1e2d0d100fb"
+		]
+	},
+	{
+		"name": "koffing",
+		"number": "109",
+		"id": 109,
+		"hashes": [
+			"bf00a1c383c301df"
+		]
+	},
+	{
+		"name": "weezing",
+		"number": "110",
+		"id": 110,
+		"hashes": [
+			"e781f181c1c381bf"
+		]
+	},
+	{
+		"name": "rhyhorn",
+		"number": "111",
+		"id": 111,
+		"hashes": [
+			"c7c3c3c1d1a181b3"
+		]
+	},
+	{
+		"name": "rhydon",
+		"number": "112",
+		"id": 112,
+		"hashes": [
+			"cf030787e18303ff"
+		]
+	},
+	{
+		"name": "chansey",
+		"number": "113",
+		"id": 113,
+		"hashes": [
+			"e70329c9a9c181f9"
+		]
+	},
+	{
+		"name": "tangela",
+		"number": "114",
+		"id": 114,
+		"hashes": [
+			"e381b19191c3809f"
+		]
+	},
+	{
+		"name": "kangaskhan",
+		"number": "115",
+		"id": 115,
+		"hashes": [
+			"e3c0c1e19383819b"
+		]
+	},
+	{
+		"name": "horsea",
+		"number": "116",
+		"id": 116,
+		"hashes": [
+			"e30383e1c1870787"
+		]
+	},
+	{
+		"name": "seadra",
+		"number": "117",
+		"id": 117,
+		"hashes": [
+			"e70183c3c1c3e3e7"
+		]
+	},
+	{
+		"name": "goldeen",
+		"number": "118",
+		"id": 118,
+		"hashes": [
+			"ffefcb81c1d1dfff"
+		]
+	},
+	{
+		"name": "seaking",
+		"number": "119",
+		"id": 119,
+		"hashes": [
+			"c78487838587c1f1"
+		]
+	},
+	{
+		"name": "staryu",
+		"number": "120",
+		"id": 120,
+		"hashes": [
+			"e7c4e1a183c381b9"
+		]
+	},
+	{
+		"name": "starmie",
+		"number": "121",
+		"id": 121,
+		"hashes": [
+			"e581c1c3d19100fb"
+		]
+	},
+	{
+		"name": "mrmime",
+		"number": "122",
+		"id": 122,
+		"hashes": [
+			"bb01c781c1c3989c"
+		]
+	},
+	{
+		"name": "scyther",
+		"number": "123",
+		"id": 123,
+		"hashes": [
+			"c7c7e0e1c3c1911b"
+		]
+	},
+	{
+		"name": "jynx",
+		"number": "124",
+		"id": 124,
+		"hashes": [
+			"ffc3e38183c301ff"
+		]
+	},
+	{
+		"name": "electabuzz",
+		"number": "125",
+		"id": 125,
+		"hashes": [
+			"cf87c7c0c6c103b3"
+		]
+	},
+	{
+		"name": "magmar",
+		"number": "126",
+		"id": 126,
+		"hashes": [
+			"e3e3e3c083a380cf"
+		]
+	},
+	{
+		"name": "pinsir",
+		"number": "127",
+		"id": 127,
+		"hashes": [
+			"f310ba82c1e1c1c7"
+		]
+	},
+	{
+		"name": "tauros",
+		"number": "128",
+		"id": 128,
+		"hashes": [
+			"fee0cd0383c381cd"
+		]
+	},
+	{
+		"name": "magikarp",
+		"number": "129",
+		"id": 129,
+		"hashes": [
+			"c7c7c7819383818f"
+		]
+	},
+	{
+		"name": "gyarados",
+		"number": "130",
+		"id": 130,
+		"hashes": [
+			"ef838783a1e1e1f9"
+		]
+	},
+	{
+		"name": "lapras",
+		"number": "131",
+		"id": 131,
+		"hashes": [
+			"c7c3c7c7c3c100fb"
+		]
+	},
+	{
+		"name": "ditto",
+		"number": "132",
+		"id": 132,
+		"hashes": [
+			"e783c3c1bd0100ef"
+		]
+	},
+	{
+		"name": "eevee",
+		"number": "133",
+		"id": 133,
+		"hashes": [
+			"bf9d93c181e383c7"
+		]
+	},
+	{
+		"name": "vaporeon",
+		"number": "134",
+		"id": 134,
+		"hashes": [
+			"e9c183c3c781818f"
+		]
+	},
+	{
+		"name": "jolteon",
+		"number": "135",
+		"id": 135,
+		"hashes": [
+			"c7838f81c1c3c199"
+		]
+	},
+	{
+		"name": "flareon",
+		"number": "136",
+		"id": 136,
+		"hashes": [
+			"dc90a5c191a301cf"
+		]
+	},
+	{
+		"name": "porygon",
+		"number": "137",
+		"id": 137,
+		"hashes": [
+			"cd81e581c1c5c0f1"
+		]
+	},
+	{
+		"name": "omanyte",
+		"number": "138",
+		"id": 138,
+		"hashes": [
+			"8783a38393c181e3"
+		]
+	},
+	{
+		"name": "omastar",
+		"number": "139",
+		"id": 139,
+		"hashes": [
+			"e3e3e1c1d18300fb"
+		]
+	},
+	{
+		"name": "kabuto",
+		"number": "140",
+		"id": 140,
+		"hashes": [
+			"ff83e38181c701ff"
+		]
+	},
+	{
+		"name": "kabutops",
+		"number": "141",
+		"id": 141,
+		"hashes": [
+			"cfc3c3a1c1a988f9"
+		]
+	},
+	{
+		"name": "aerodactyl",
+		"number": "142",
+		"id": 142,
+		"hashes": [
+			"ff9b9983c1c3f7ff"
+		]
+	},
+	{
+		"name": "snorlax",
+		"number": "143",
+		"id": 143,
+		"hashes": [
+			"ffc3c391bc8100ff"
+		]
+	},
+	{
+		"name": "articuno",
+		"number": "144",
+		"id": 144,
+		"hashes": [
+			"b9218387c9c181cf"
+		]
+	},
+	{
+		"name": "zapdos",
+		"number": "145",
+		"id": 145,
+		"hashes": [
+			"ff4081c783c3e7ff"
+		]
+	},
+	{
+		"name": "moltres",
+		"number": "146",
+		"id": 146,
+		"hashes": [
+			"ffffde01c1e1ffff"
+		]
+	},
+	{
+		"name": "dratini",
+		"number": "147",
+		"id": 147,
+		"hashes": [
+			"fde1f0f0f80cc0f1"
+		]
+	},
+	{
+		"name": "dragonair",
+		"number": "148",
+		"id": 148,
+		"hashes": [
+			"c3e3e7a72f6081e3"
+		]
+	},
+	{
+		"name": "dragonite",
+		"number": "149",
+		"id": 149,
+		"hashes": [
+			"8783c383c5c183f3"
+		]
+	},
+	{
+		"name": "mewtwo",
+		"number": "150",
+		"id": 150,
+		"hashes": [
+			"f3c3c39189c3c1c9"
+		]
+	},
+	{
+		"name": "mew",
+		"number": "151",
+		"id": 151,
+		"hashes": [
+			"cf87c307c1e1e1f1"
+		]
+	},
+	{
+		"name": "chikorita",
+		"number": "152",
+		"id": 152,
+		"hashes": [
+			"f1c1c18787878797"
+		]
+	},
+	{
+		"name": "bayleef",
+		"number": "153",
+		"id": 153,
+		"hashes": [
+			"e7c78f87c383c3c3"
+		]
+	},
+	{
+		"name": "meganium",
+		"number": "154",
+		"id": 154,
+		"hashes": [
+			"e7e3e3e3c38383c3"
+		]
+	},
+	{
+		"name": "cyndaquil",
+		"number": "155",
+		"id": 155,
+		"hashes": [
+			"ffe3e38183c3c3ff"
+		]
+	},
+	{
+		"name": "quilava",
+		"number": "156",
+		"id": 156,
+		"hashes": [
+			"c7e3c3c3c3c1c383"
+		]
+	},
+	{
+		"name": "typhlosion",
+		"number": "157",
+		"id": 157,
+		"hashes": [
+			"c781c38383c381b3"
+		]
+	},
+	{
+		"name": "totodile",
+		"number": "158",
+		"id": 158,
+		"hashes": [
+			"8f87c383c3c1c1c7"
+		]
+	},
+	{
+		"name": "croconaw",
+		"number": "159",
+		"id": 159,
+		"hashes": [
+			"8f8f878387c1c187"
+		]
+	},
+	{
+		"name": "feraligatr",
+		"number": "160",
+		"id": 160,
+		"hashes": [
+			"e3c3c3a1e1c1c1f9"
+		]
+	},
+	{
+		"name": "sentret",
+		"number": "161",
+		"id": 161,
+		"hashes": [
+			"e3e7c3c3e7c7c7c7"
+		]
+	},
+	{
+		"name": "furret",
+		"number": "162",
+		"id": 162,
+		"hashes": [
+			"f0e0e19187c1c1e1"
+		]
+	},
+	{
+		"name": "hoothoot",
+		"number": "163",
+		"id": 163,
+		"hashes": [
+			"83c3c38381c7c3c3"
+		]
+	},
+	{
+		"name": "noctowl",
+		"number": "164",
+		"id": 164,
+		"hashes": [
+			"978787c783c3c1c7"
+		]
+	},
+	{
+		"name": "ledyba",
+		"number": "165",
+		"id": 165,
+		"hashes": [
+			"e3c3c781c1d1c1d1"
+		]
+	},
+	{
+		"name": "ledian",
+		"number": "166",
+		"id": 166,
+		"hashes": [
+			"c78f8783c1c3c3e3"
+		]
+	},
+	{
+		"name": "spinarak",
+		"number": "167",
+		"id": 167,
+		"hashes": [
+			"ffe3e38181c7c5ff"
+		]
+	},
+	{
+		"name": "ariados",
+		"number": "168",
+		"id": 168,
+		"hashes": [
+			"efe4e1c1c1e140fd"
+		]
+	},
+	{
+		"name": "crobat",
+		"number": "169",
+		"id": 169,
+		"hashes": [
+			"ff0f0fc1c0f8fdff"
+		]
+	},
+	{
+		"name": "chinchou",
+		"number": "170",
+		"id": 170,
+		"hashes": [
+			"ff81f302c1f0fcff"
+		]
+	},
+	{
+		"name": "lanturn",
+		"number": "171",
+		"id": 171,
+		"hashes": [
+			"ffcfcf40c0e3e3ff"
+		]
+	},
+	{
+		"name": "pichu",
+		"number": "172",
+		"id": 172,
+		"hashes": [
+			"3f1091c38783c383"
+		]
+	},
+	{
+		"name": "cleffa",
+		"number": "173",
+		"id": 173,
+		"hashes": [
+			"e3819c1c91a981cb"
+		]
+	},
+	{
+		"name": "igglybuff",
+		"number": "174",
+		"id": 174,
+		"hashes": [
+			"e3c3cb8185d1c1c3"
+		]
+	},
+	{
+		"name": "togepi",
+		"number": "175",
+		"id": 175,
+		"hashes": [
+			"d780a1b1a3838393"
+		]
+	},
+	{
+		"name": "togetic",
+		"number": "176",
+		"id": 176,
+		"hashes": [
+			"c78789c383c38387"
+		]
+	},
+	{
+		"name": "natu",
+		"number": "177",
+		"id": 177,
+		"hashes": [
+			"f8c0c3c1c9c1c0c7"
+		]
+	},
+	{
+		"name": "xatu",
+		"number": "178",
+		"id": 178,
+		"hashes": [
+			"c787c3c3c3c18387"
+		]
+	},
+	{
+		"name": "mareep",
+		"number": "179",
+		"id": 179,
+		"hashes": [
+			"d381a1e1b18381cb"
+		]
+	},
+	{
+		"name": "flaaffy",
+		"number": "180",
+		"id": 180,
+		"hashes": [
+			"87878783c5c181cf"
+		]
+	},
+	{
+		"name": "ampharos",
+		"number": "181",
+		"id": 181,
+		"hashes": [
+			"e3e3e78189c3c1c9"
+		]
+	},
+	{
+		"name": "bellossom",
+		"number": "182",
+		"id": 182,
+		"hashes": [
+			"c7838387c38381c7"
+		]
+	},
+	{
+		"name": "marill",
+		"number": "183",
+		"id": 183,
+		"hashes": [
+			"ff00a5a1a1c3c3ff"
+		]
+	},
+	{
+		"name": "azumarill",
+		"number": "184",
+		"id": 184,
+		"hashes": [
+			"d981c38383c3c0d5"
+		]
+	},
+	{
+		"name": "sudowoodo",
+		"number": "185",
+		"id": 185,
+		"hashes": [
+			"c78481e5c7c7c793"
+		]
+	},
+	{
+		"name": "politoed",
+		"number": "186",
+		"id": 186,
+		"hashes": [
+			"e3e3c383c1c3c1d1"
+		]
+	},
+	{
+		"name": "hoppip",
+		"number": "187",
+		"id": 187,
+		"hashes": [
+			"ffb813c3c3c3c3ff"
+		]
+	},
+	{
+		"name": "skiploom",
+		"number": "188",
+		"id": 188,
+		"hashes": [
+			"ff839781b183c3ff"
+		]
+	},
+	{
+		"name": "jumpluff",
+		"number": "189",
+		"id": 189,
+		"hashes": [
+			"c3c3c3c7c38381d3"
+		]
+	},
+	{
+		"name": "aipom",
+		"number": "190",
+		"id": 190,
+		"hashes": [
+			"fbe0e0b111e3f3f3"
+		]
+	},
+	{
+		"name": "sunkern",
+		"number": "191",
+		"id": 191,
+		"hashes": [
+			"9983c383c38383c3"
+		]
+	},
+	{
+		"name": "sunflora",
+		"number": "192",
+		"id": 192,
+		"hashes": [
+			"c3c383c3e185c3c1"
+		]
+	},
+	{
+		"name": "yanma",
+		"number": "193",
+		"id": 193,
+		"hashes": [
+			"ffffb1858387ffff"
+		]
+	},
+	{
+		"name": "wooper",
+		"number": "194",
+		"id": 194,
+		"hashes": [
+			"e78081f12707c7c7"
+		]
+	},
+	{
+		"name": "quagsire",
+		"number": "195",
+		"id": 195,
+		"hashes": [
+			"e3c0c1e1e38181cb"
+		]
+	},
+	{
+		"name": "espeon",
+		"number": "196",
+		"id": 196,
+		"hashes": [
+			"bf9e85c9c1c3c3c3"
+		]
+	},
+	{
+		"name": "umbreon",
+		"number": "197",
+		"id": 197,
+		"hashes": [
+			"f3f1a199c1c3c1c9"
+		]
+	},
+	{
+		"name": "murkrow",
+		"number": "198",
+		"id": 198,
+		"hashes": [
+			"c7078783d1c1818f"
+		]
+	},
+	{
+		"name": "slowking",
+		"number": "199",
+		"id": 199,
+		"hashes": [
+			"e78383c3c383c1c3"
+		]
+	},
+	{
+		"name": "misdreavus",
+		"number": "200",
+		"id": 200,
+		"hashes": [
+			"cfc1e189c9c181e7"
+		]
+	},
+	{
+		"name": "unown",
+		"number": "201",
+		"id": 201,
+		"hashes": [
+			"8783b18387870f0f"
+		]
+	},
+	{
+		"name": "wobbuffet",
+		"number": "202",
+		"id": 202,
+		"hashes": [
+			"cd81c38387c18387"
+		]
+	},
+	{
+		"name": "girafarig",
+		"number": "203",
+		"id": 203,
+		"hashes": [
+			"cf8fc9c1c383c3c3"
+		]
+	},
+	{
+		"name": "pineco",
+		"number": "204",
+		"id": 204,
+		"hashes": [
+			"e38181d3c1c381e3"
+		]
+	},
+	{
+		"name": "forretress",
+		"number": "205",
+		"id": 205,
+		"hashes": [
+			"ffc1d38181d3c3ff"
+		]
+	},
+	{
+		"name": "dunsparce",
+		"number": "206",
+		"id": 206,
+		"hashes": [
+			"fcf8e1c1838707c7"
+		]
+	},
+	{
+		"name": "gligar",
+		"number": "207",
+		"id": 207,
+		"hashes": [
+			"a989a383878380db"
+		]
+	},
+	{
+		"name": "steelix",
+		"number": "208",
+		"id": 208,
+		"hashes": [
+			"cf87c78180fcf0f3"
+		]
+	},
+	{
+		"name": "snubbull",
+		"number": "209",
+		"id": 209,
+		"hashes": [
+			"8f8191c3c38383cf"
+		]
+	},
+	{
+		"name": "granbull",
+		"number": "210",
+		"id": 210,
+		"hashes": [
+			"c9c1e18383c3839f"
+		]
+	},
+	{
+		"name": "qwilfish",
+		"number": "211",
+		"id": 211,
+		"hashes": [
+			"ebc0c1c9c1931f1f"
+		]
+	},
+	{
+		"name": "scizor",
+		"number": "212",
+		"id": 212,
+		"hashes": [
+			"c9c1c187c38381b9"
+		]
+	},
+	{
+		"name": "shuckle",
+		"number": "213",
+		"id": 213,
+		"hashes": [
+			"f3e3e3c3c3c100df"
+		]
+	},
+	{
+		"name": "heracross",
+		"number": "214",
+		"id": 214,
+		"hashes": [
+			"c7c7c3c3c3a100fd"
+		]
+	},
+	{
+		"name": "sneasel",
+		"number": "215",
+		"id": 215,
+		"hashes": [
+			"f103c0c7c30783e3"
+		]
+	},
+	{
+		"name": "teddiursa",
+		"number": "216",
+		"id": 216,
+		"hashes": [
+			"8f81c383c1c3e1c1"
+		]
+	},
+	{
+		"name": "ursaring",
+		"number": "217",
+		"id": 217,
+		"hashes": [
+			"e7e3c3c183c3819b"
+		]
+	},
+	{
+		"name": "slugma",
+		"number": "218",
+		"id": 218,
+		"hashes": [
+			"c9c183878f8181cb"
+		]
+	},
+	{
+		"name": "magcargo",
+		"number": "219",
+		"id": 219,
+		"hashes": [
+			"fc89d381c1c383c3"
+		]
+	},
+	{
+		"name": "swinub",
+		"number": "220",
+		"id": 220,
+		"hashes": [
+			"ffc3c383f18183ff"
+		]
+	},
+	{
+		"name": "piloswine",
+		"number": "221",
+		"id": 221,
+		"hashes": [
+			"e381c383c38381f1"
+		]
+	},
+	{
+		"name": "corsola",
+		"number": "222",
+		"id": 222,
+		"hashes": [
+			"fc98d981c1e1c0e3"
+		]
+	},
+	{
+		"name": "remoraid",
+		"number": "223",
+		"id": 223,
+		"hashes": [
+			"f9f9c38383c3e1f9"
+		]
+	},
+	{
+		"name": "octillery",
+		"number": "224",
+		"id": 224,
+		"hashes": [
+			"e3e1c1e1e70100fb"
+		]
+	},
+	{
+		"name": "delibird",
+		"number": "225",
+		"id": 225,
+		"hashes": [
+			"c3c18387c3c1c193"
+		]
+	},
+	{
+		"name": "mantine",
+		"number": "226",
+		"id": 226,
+		"hashes": [
+			"ffff9d8103f1ffff"
+		]
+	},
+	{
+		"name": "skarmory",
+		"number": "227",
+		"id": 227,
+		"hashes": [
+			"ff98d98183c7c7ff"
+		]
+	},
+	{
+		"name": "houndour",
+		"number": "228",
+		"id": 228,
+		"hashes": [
+			"878787c1c3c1c1c5"
+		]
+	},
+	{
+		"name": "houndoom",
+		"number": "229",
+		"id": 229,
+		"hashes": [
+			"8f88c6c1c385a127"
+		]
+	},
+	{
+		"name": "kingdra",
+		"number": "230",
+		"id": 230,
+		"hashes": [
+			"c3c1c3c1e1f1f8f9"
+		]
+	},
+	{
+		"name": "phanpy",
+		"number": "231",
+		"id": 231,
+		"hashes": [
+			"97038785e981a1e1"
+		]
+	},
+	{
+		"name": "donphan",
+		"number": "232",
+		"id": 232,
+		"hashes": [
+			"ffe7e381c5c1c3ff"
+		]
+	},
+	{
+		"name": "porygon2",
+		"number": "233",
+		"id": 233,
+		"hashes": [
+			"b38181d3c70301f9"
+		]
+	},
+	{
+		"name": "stantler",
+		"number": "234",
+		"id": 234,
+		"hashes": [
+			"878787c9c1e1e1c1"
+		]
+	},
+	{
+		"name": "smeargle",
+		"number": "235",
+		"id": 235,
+		"hashes": [
+			"c7c0c5c183c3c7c7"
+		]
+	},
+	{
+		"name": "tyrogue",
+		"number": "236",
+		"id": 236,
+		"hashes": [
+			"8f078783c1c58ccc"
+		]
+	},
+	{
+		"name": "hitmontop",
+		"number": "237",
+		"id": 237,
+		"hashes": [
+			"870797818d8584c7"
+		]
+	},
+	{
+		"name": "smoochum",
+		"number": "238",
+		"id": 238,
+		"hashes": [
+			"c3c3c383c1c3c3c3"
+		]
+	},
+	{
+		"name": "elekid",
+		"number": "239",
+		"id": 239,
+		"hashes": [
+			"ffe3e3c080e7e7ff"
+		]
+	},
+	{
+		"name": "magby",
+		"number": "240",
+		"id": 240,
+		"hashes": [
+			"878785c3e1c1c3c3"
+		]
+	},
+	{
+		"name": "miltank",
+		"number": "241",
+		"id": 241,
+		"hashes": [
+			"878383c3d1c18387"
+		]
+	},
+	{
+		"name": "blissey",
+		"number": "242",
+		"id": 242,
+		"hashes": [
+			"c383819de1c1c1c3"
+		]
+	},
+	{
+		"name": "raikou",
+		"number": "243",
+		"id": 243,
+		"hashes": [
+			"ff0103e3c39191ff"
+		]
+	},
+	{
+		"name": "entei",
+		"number": "244",
+		"id": 244,
+		"hashes": [
+			"8f83878383a383a3"
+		]
+	},
+	{
+		"name": "suicune",
+		"number": "245",
+		"id": 245,
+		"hashes": [
+			"df83838b83872565"
+		]
+	},
+	{
+		"name": "larvitar",
+		"number": "246",
+		"id": 246,
+		"hashes": [
+			"efcfc787c3c1c1d3"
+		]
+	},
+	{
+		"name": "pupitar",
+		"number": "247",
+		"id": 247,
+		"hashes": [
+			"e1a1c1e1c1c383c7"
+		]
+	},
+	{
+		"name": "tyranitar",
+		"number": "248",
+		"id": 248,
+		"hashes": [
+			"8f83c3078783c1c5"
+		]
+	},
+	{
+		"name": "lugia",
+		"number": "249",
+		"id": 249,
+		"hashes": [
+			"fff8d8c123b1e0ff"
+		]
+	},
+	{
+		"name": "hooh",
+		"number": "250",
+		"id": 250,
+		"hashes": [
+			"1f1f9b81c187078f"
+		]
+	},
+	{
+		"name": "celebi",
+		"number": "251",
+		"id": 251,
+		"hashes": [
+			"f793a383878580f7"
+		]
+	},
+	{
+		"name": "treecko",
+		"number": "252",
+		"id": 252,
+		"hashes": [
+			"8f878b83c7c0c0c7"
+		]
+	},
+	{
+		"name": "grovyle",
+		"number": "253",
+		"id": 253,
+		"hashes": [
+			"f98081e323b1f0f9"
+		]
+	},
+	{
+		"name": "sceptile",
+		"number": "254",
+		"id": 254,
+		"hashes": [
+			"c7cf878387c180f3"
+		]
+	},
+	{
+		"name": "torchic",
+		"number": "255",
+		"id": 255,
+		"hashes": [
+			"f3e1c38383c3c7c7"
+		]
+	},
+	{
+		"name": "combusken",
+		"number": "256",
+		"id": 256,
+		"hashes": [
+			"f321078781c7c7c7"
+		]
+	},
+	{
+		"name": "blaziken",
+		"number": "257",
+		"id": 257,
+		"hashes": [
+			"e3c3c781c1c38f8f"
+		]
+	},
+	{
+		"name": "mudkip",
+		"number": "258",
+		"id": 258,
+		"hashes": [
+			"cfcfcf848783c1c3"
+		]
+	},
+	{
+		"name": "marshtomp",
+		"number": "259",
+		"id": 259,
+		"hashes": [
+			"e7e7a5c1938383c3"
+		]
+	},
+	{
+		"name": "swampert",
+		"number": "260",
+		"id": 260,
+		"hashes": [
+			"ff87c3c1d1a1c0ff"
+		]
+	},
+	{
+		"name": "poochyena",
+		"number": "261",
+		"id": 261,
+		"hashes": [
+			"9f8f8f03c3c101e7"
+		]
+	},
+	{
+		"name": "mightyena",
+		"number": "262",
+		"id": 262,
+		"hashes": [
+			"1f1889c3e1c1818f"
+		]
+	},
+	{
+		"name": "zigzagoon",
+		"number": "263",
+		"id": 263,
+		"hashes": [
+			"fff8e98107878fff"
+		]
+	},
+	{
+		"name": "linoone",
+		"number": "264",
+		"id": 264,
+		"hashes": [
+			"ffffee80019fffff"
+		]
+	},
+	{
+		"name": "wurmple",
+		"number": "265",
+		"id": 265,
+		"hashes": [
+			"f9f1e1a1998581e3"
+		]
+	},
+	{
+		"name": "silcoon",
+		"number": "266",
+		"id": 266,
+		"hashes": [
+			"f76583b1858743db"
+		]
+	},
+	{
+		"name": "beautifly",
+		"number": "267",
+		"id": 267,
+		"hashes": [
+			"ef00b0c3834701f9"
+		]
+	},
+	{
+		"name": "cascoon",
+		"number": "268",
+		"id": 268,
+		"hashes": [
+			"ff31c3c181c7b7ff"
+		]
+	},
+	{
+		"name": "dustox",
+		"number": "269",
+		"id": 269,
+		"hashes": [
+			"fff33f0191c3c3ff"
+		]
+	},
+	{
+		"name": "lotad",
+		"number": "270",
+		"id": 270,
+		"hashes": [
+			"f382c781a1c381f3"
+		]
+	},
+	{
+		"name": "lombre",
+		"number": "271",
+		"id": 271,
+		"hashes": [
+			"c383838787c181d3"
+		]
+	},
+	{
+		"name": "ludicolo",
+		"number": "272",
+		"id": 272,
+		"hashes": [
+			"e381c383c38383e3"
+		]
+	},
+	{
+		"name": "seedot",
+		"number": "273",
+		"id": 273,
+		"hashes": [
+			"e7c3c3c183c383c3"
+		]
+	},
+	{
+		"name": "nuzleaf",
+		"number": "274",
+		"id": 274,
+		"hashes": [
+			"f1c0878383878783"
+		]
+	},
+	{
+		"name": "shiftry",
+		"number": "275",
+		"id": 275,
+		"hashes": [
+			"9f070787c38380e7"
+		]
+	},
+	{
+		"name": "taillow",
+		"number": "276",
+		"id": 276,
+		"hashes": [
+			"ff0f8f0581e380ff"
+		]
+	},
+	{
+		"name": "swellow",
+		"number": "277",
+		"id": 277,
+		"hashes": [
+			"ff089d0383c381ff"
+		]
+	},
+	{
+		"name": "wingull",
+		"number": "278",
+		"id": 278,
+		"hashes": [
+			"ff3f178383f0f8ff"
+		]
+	},
+	{
+		"name": "pelipper",
+		"number": "279",
+		"id": 279,
+		"hashes": [
+			"e303078787c190f8"
+		]
+	},
+	{
+		"name": "ralts",
+		"number": "280",
+		"id": 280,
+		"hashes": [
+			"c3c3c383c7c7c1c3"
+		]
+	},
+	{
+		"name": "kirlia",
+		"number": "281",
+		"id": 281,
+		"hashes": [
+			"c3c3c3c183c3e7e7"
+		]
+	},
+	{
+		"name": "gardevoir",
+		"number": "282",
+		"id": 282,
+		"hashes": [
+			"f1f1f1c0ec8101f3"
+		]
+	},
+	{
+		"name": "surskit",
+		"number": "283",
+		"id": 283,
+		"hashes": [
+			"fff7e381b03cfdff"
+		]
+	},
+	{
+		"name": "masquerain",
+		"number": "284",
+		"id": 284,
+		"hashes": [
+			"ff9f9784d18383ff"
+		]
+	},
+	{
+		"name": "shroomish",
+		"number": "285",
+		"id": 285,
+		"hashes": [
+			"ffe3e381b19181ff"
+		]
+	},
+	{
+		"name": "breloom",
+		"number": "286",
+		"id": 286,
+		"hashes": [
+			"8787c5c1878387a7"
+		]
+	},
+	{
+		"name": "slakoth",
+		"number": "287",
+		"id": 287,
+		"hashes": [
+			"ffff9f0181c7ffff"
+		]
+	},
+	{
+		"name": "vigoroth",
+		"number": "288",
+		"id": 288,
+		"hashes": [
+			"f3f3c38387c183c3"
+		]
+	},
+	{
+		"name": "slaking",
+		"number": "289",
+		"id": 289,
+		"hashes": [
+			"ffc5c591998900ff"
+		]
+	},
+	{
+		"name": "nincada",
+		"number": "290",
+		"id": 290,
+		"hashes": [
+			"ffffc38301f6ffff"
+		]
+	},
+	{
+		"name": "ninjask",
+		"number": "291",
+		"id": 291,
+		"hashes": [
+			"ff3c7c09838707ff"
+		]
+	},
+	{
+		"name": "shedinja",
+		"number": "292",
+		"id": 292,
+		"hashes": [
+			"8785ad8183c383e7"
+		]
+	},
+	{
+		"name": "whismur",
+		"number": "293",
+		"id": 293,
+		"hashes": [
+			"f190c09b87838387"
+		]
+	},
+	{
+		"name": "loudred",
+		"number": "294",
+		"id": 294,
+		"hashes": [
+			"b9118bc183e1c18f"
+		]
+	},
+	{
+		"name": "exploud",
+		"number": "295",
+		"id": 295,
+		"hashes": [
+			"8707c78183a38393"
+		]
+	},
+	{
+		"name": "makuhita",
+		"number": "296",
+		"id": 296,
+		"hashes": [
+			"e7838783c3c181d3"
+		]
+	},
+	{
+		"name": "hariyama",
+		"number": "297",
+		"id": 297,
+		"hashes": [
+			"9f0183e181ab81f1"
+		]
+	},
+	{
+		"name": "azurill",
+		"number": "298",
+		"id": 298,
+		"hashes": [
+			"87838785878581c7"
+		]
+	},
+	{
+		"name": "nosepass",
+		"number": "299",
+		"id": 299,
+		"hashes": [
+			"8f078783e183038f"
+		]
+	},
+	{
+		"name": "skitty",
+		"number": "300",
+		"id": 300,
+		"hashes": [
+			"fd08a9a1a1a3c3f7"
+		]
+	},
+	{
+		"name": "delcatty",
+		"number": "301",
+		"id": 301,
+		"hashes": [
+			"9b81c1c5c1c3c3e3"
+		]
+	},
+	{
+		"name": "sableye",
+		"number": "302",
+		"id": 302,
+		"hashes": [
+			"efe0e1a1e0e1f1f9"
+		]
+	},
+	{
+		"name": "mawile",
+		"number": "303",
+		"id": 303,
+		"hashes": [
+			"ffe3e1c2c18b0fff"
+		]
+	},
+	{
+		"name": "aron",
+		"number": "304",
+		"id": 304,
+		"hashes": [
+			"c781c3c1c5a180f3"
+		]
+	},
+	{
+		"name": "lairon",
+		"number": "305",
+		"id": 305,
+		"hashes": [
+			"e783f301e1a100f7"
+		]
+	},
+	{
+		"name": "aggron",
+		"number": "306",
+		"id": 306,
+		"hashes": [
+			"8f03c3c181a7c0e9"
+		]
+	},
+	{
+		"name": "meditite",
+		"number": "307",
+		"id": 307,
+		"hashes": [
+			"e7c3e381c38380e7"
+		]
+	},
+	{
+		"name": "medicham",
+		"number": "308",
+		"id": 308,
+		"hashes": [
+			"f7e3c3c3e3c3c3e7"
+		]
+	},
+	{
+		"name": "electrike",
+		"number": "309",
+		"id": 309,
+		"hashes": [
+			"ffe0e38181d590ff"
+		]
+	},
+	{
+		"name": "manectric",
+		"number": "310",
+		"id": 310,
+		"hashes": [
+			"cfcfcb81c1c3c3c3"
+		]
+	},
+	{
+		"name": "plusle",
+		"number": "311",
+		"id": 311,
+		"hashes": [
+			"c99183878783c3c3"
+		]
+	},
+	{
+		"name": "minun",
+		"number": "312",
+		"id": 312,
+		"hashes": [
+			"9f9f91c38787878f"
+		]
+	},
+	{
+		"name": "volbeat",
+		"number": "313",
+		"id": 313,
+		"hashes": [
+			"c3c1c383c38387c7"
+		]
+	},
+	{
+		"name": "illumise",
+		"number": "314",
+		"id": 314,
+		"hashes": [
+			"c3c1c1c381e3c1c3"
+		]
+	},
+	{
+		"name": "roselia",
+		"number": "315",
+		"id": 315,
+		"hashes": [
+			"f7c3e78000efe7e7"
+		]
+	},
+	{
+		"name": "gulpin",
+		"number": "316",
+		"id": 316,
+		"hashes": [
+			"fcf0c3839b8180e7"
+		]
+	},
+	{
+		"name": "swalot",
+		"number": "317",
+		"id": 317,
+		"hashes": [
+			"c3c1d1c1e1a181cb"
+		]
+	},
+	{
+		"name": "carvanha",
+		"number": "318",
+		"id": 318,
+		"hashes": [
+			"ab83c38383c3cbef"
+		]
+	},
+	{
+		"name": "sharpedo",
+		"number": "319",
+		"id": 319,
+		"hashes": [
+			"f3f3878383c5c7e7"
+		]
+	},
+	{
+		"name": "wailmer",
+		"number": "320",
+		"id": 320,
+		"hashes": [
+			"ffc783b1f0c1c3ff"
+		]
+	},
+	{
+		"name": "wailord",
+		"number": "321",
+		"id": 321,
+		"hashes": [
+			"ff9f8f0381e3fbff"
+		]
+	},
+	{
+		"name": "numel",
+		"number": "322",
+		"id": 322,
+		"hashes": [
+			"8707c9c1e0f0c0e3"
+		]
+	},
+	{
+		"name": "camerupt",
+		"number": "323",
+		"id": 323,
+		"hashes": [
+			"ffe1e1c1c1e100ff"
+		]
+	},
+	{
+		"name": "torkoal",
+		"number": "324",
+		"id": 324,
+		"hashes": [
+			"e3c1c5c1d1c180f3"
+		]
+	},
+	{
+		"name": "spoink",
+		"number": "325",
+		"id": 325,
+		"hashes": [
+			"e3e3c383c1c3c7e7"
+		]
+	},
+	{
+		"name": "grumpig",
+		"number": "326",
+		"id": 326,
+		"hashes": [
+			"c383c703c38380cf"
+		]
+	},
+	{
+		"name": "spinda",
+		"number": "327",
+		"id": 327,
+		"hashes": [
+			"8f89c1c383878387"
+		]
+	},
+	{
+		"name": "trapinch",
+		"number": "328",
+		"id": 328,
+		"hashes": [
+			"878383c383e1c1c9"
+		]
+	},
+	{
+		"name": "vibrava",
+		"number": "329",
+		"id": 329,
+		"hashes": [
+			"ffe0e9c0c18783ff"
+		]
+	},
+	{
+		"name": "flygon",
+		"number": "330",
+		"id": 330,
+		"hashes": [
+			"ff0187c1c18b87ff"
+		]
+	},
+	{
+		"name": "cacnea",
+		"number": "331",
+		"id": 331,
+		"hashes": [
+			"ffe3c38383a5f0ff"
+		]
+	},
+	{
+		"name": "cacturne",
+		"number": "332",
+		"id": 332,
+		"hashes": [
+			"e7c3c78125c383c3"
+		]
+	},
+	{
+		"name": "swablu",
+		"number": "333",
+		"id": 333,
+		"hashes": [
+			"ffcfe34187c1f7ff"
+		]
+	},
+	{
+		"name": "altaria",
+		"number": "334",
+		"id": 334,
+		"hashes": [
+			"e3c0c983493303f1"
+		]
+	},
+	{
+		"name": "zangoose",
+		"number": "335",
+		"id": 335,
+		"hashes": [
+			"cfc3c78183a30787"
+		]
+	},
+	{
+		"name": "seviper",
+		"number": "336",
+		"id": 336,
+		"hashes": [
+			"f9888d85d1c180d7"
+		]
+	},
+	{
+		"name": "lunatone",
+		"number": "337",
+		"id": 337,
+		"hashes": [
+			"c781e1c1c1e181c7"
+		]
+	},
+	{
+		"name": "solrock",
+		"number": "338",
+		"id": 338,
+		"hashes": [
+			"f387c383c1c3c3ef"
+		]
+	},
+	{
+		"name": "barboach",
+		"number": "339",
+		"id": 339,
+		"hashes": [
+			"ffff870781f1ffff"
+		]
+	},
+	{
+		"name": "whiscash",
+		"number": "340",
+		"id": 340,
+		"hashes": [
+			"ff8cf68081b303ff"
+		]
+	},
+	{
+		"name": "corphish",
+		"number": "341",
+		"id": 341,
+		"hashes": [
+			"d70181c7c3c180e7"
+		]
+	},
+	{
+		"name": "crawdaunt",
+		"number": "342",
+		"id": 342,
+		"hashes": [
+			"cf81c5c1e38181cd"
+		]
+	},
+	{
+		"name": "baltoy",
+		"number": "343",
+		"id": 343,
+		"hashes": [
+			"e7c3c383c38364e4"
+		]
+	},
+	{
+		"name": "claydol",
+		"number": "344",
+		"id": 344,
+		"hashes": [
+			"f381d1c183e1c1c3"
+		]
+	},
+	{
+		"name": "lileep",
+		"number": "345",
+		"id": 345,
+		"hashes": [
+			"d381c1c3c1e7c3c3"
+		]
+	},
+	{
+		"name": "cradily",
+		"number": "346",
+		"id": 346,
+		"hashes": [
+			"938383c383e3e1c1"
+		]
+	},
+	{
+		"name": "anorith",
+		"number": "347",
+		"id": 347,
+		"hashes": [
+			"e3e3e58181c793d3"
+		]
+	},
+	{
+		"name": "armaldo",
+		"number": "348",
+		"id": 348,
+		"hashes": [
+			"87878786878303f3"
+		]
+	},
+	{
+		"name": "feebas",
+		"number": "349",
+		"id": 349,
+		"hashes": [
+			"e7e7c5c1c1c3c1a3"
+		]
+	},
+	{
+		"name": "milotic",
+		"number": "350",
+		"id": 350,
+		"hashes": [
+			"c70989c9c5d0818f"
+		]
+	},
+	{
+		"name": "castform",
+		"number": "351",
+		"id": 351,
+		"hashes": [
+			"c7c7c3c183c3c3c7"
+		]
+	},
+	{
+		"name": "kecleon",
+		"number": "352",
+		"id": 352,
+		"hashes": [
+			"87878387c5c1c0e9"
+		]
+	},
+	{
+		"name": "shuppet",
+		"number": "353",
+		"id": 353,
+		"hashes": [
+			"dfcfc78183c3c3c3"
+		]
+	},
+	{
+		"name": "banette",
+		"number": "354",
+		"id": 354,
+		"hashes": [
+			"e783c3c184e380d7"
+		]
+	},
+	{
+		"name": "duskull",
+		"number": "355",
+		"id": 355,
+		"hashes": [
+			"cf8787c1c1e1c1e1"
+		]
+	},
+	{
+		"name": "dusclops",
+		"number": "356",
+		"id": 356,
+		"hashes": [
+			"f3c7c783878583e7"
+		]
+	},
+	{
+		"name": "tropius",
+		"number": "357",
+		"id": 357,
+		"hashes": [
+			"f3f0b1c1e1c101f9"
+		]
+	},
+	{
+		"name": "chimecho",
+		"number": "358",
+		"id": 358,
+		"hashes": [
+			"cfc7c7c7e7e7e3e3"
+		]
+	},
+	{
+		"name": "absol",
+		"number": "359",
+		"id": 359,
+		"hashes": [
+			"f181c1c3c383f3f3"
+		]
+	},
+	{
+		"name": "wynaut",
+		"number": "360",
+		"id": 360,
+		"hashes": [
+			"ffc7c3c383a3c0ff"
+		]
+	},
+	{
+		"name": "snorunt",
+		"number": "361",
+		"id": 361,
+		"hashes": [
+			"e7c7c383c3c183c3"
+		]
+	},
+	{
+		"name": "glalie",
+		"number": "362",
+		"id": 362,
+		"hashes": [
+			"7f009989a1a381c7"
+		]
+	},
+	{
+		"name": "spheal",
+		"number": "363",
+		"id": 363,
+		"hashes": [
+			"ff0303d3f1a000ff"
+		]
+	},
+	{
+		"name": "sealeo",
+		"number": "364",
+		"id": 364,
+		"hashes": [
+			"ffe1f0c18bc1e0ff"
+		]
+	},
+	{
+		"name": "walrein",
+		"number": "365",
+		"id": 365,
+		"hashes": [
+			"1f070787e18301f3"
+		]
+	},
+	{
+		"name": "clamperl",
+		"number": "366",
+		"id": 366,
+		"hashes": [
+			"c7818399c1a581e3"
+		]
+	},
+	{
+		"name": "huntail",
+		"number": "367",
+		"id": 367,
+		"hashes": [
+			"fff0859383870fff"
+		]
+	},
+	{
+		"name": "gorebyss",
+		"number": "368",
+		"id": 368,
+		"hashes": [
+			"ffe3ce8405f1f1ff"
+		]
+	},
+	{
+		"name": "relicanth",
+		"number": "369",
+		"id": 369,
+		"hashes": [
+			"ffe9e981e1c1c0ff"
+		]
+	},
+	{
+		"name": "luvdisc",
+		"number": "370",
+		"id": 370,
+		"hashes": [
+			"e3e3c3c3c3c3c3e3"
+		]
+	},
+	{
+		"name": "bagon",
+		"number": "371",
+		"id": 371,
+		"hashes": [
+			"c7838783c3c1c1c9"
+		]
+	},
+	{
+		"name": "shelgon",
+		"number": "372",
+		"id": 372,
+		"hashes": [
+			"c383b981c1c901f3"
+		]
+	},
+	{
+		"name": "salamence",
+		"number": "373",
+		"id": 373,
+		"hashes": [
+			"ff01c9c1c39181ff"
+		]
+	},
+	{
+		"name": "beldum",
+		"number": "374",
+		"id": 374,
+		"hashes": [
+			"ffff8f8181f1ffff"
+		]
+	},
+	{
+		"name": "metang",
+		"number": "375",
+		"id": 375,
+		"hashes": [
+			"ff81e1c1991911ff"
+		]
+	},
+	{
+		"name": "metagross",
+		"number": "376",
+		"id": 376,
+		"hashes": [
+			"ffc1cb81803f3fff"
+		]
+	},
+	{
+		"name": "regirock",
+		"number": "377",
+		"id": 377,
+		"hashes": [
+			"d38191e1c58501f3"
+		]
+	},
+	{
+		"name": "regice",
+		"number": "378",
+		"id": 378,
+		"hashes": [
+			"a38393c1998383c3"
+		]
+	},
+	{
+		"name": "registeel",
+		"number": "379",
+		"id": 379,
+		"hashes": [
+			"ffc3e381a54643ff"
+		]
+	},
+	{
+		"name": "latias",
+		"number": "380",
+		"id": 380,
+		"hashes": [
+			"df0f0f8f81c7e7e7"
+		]
+	},
+	{
+		"name": "latios",
+		"number": "381",
+		"id": 381,
+		"hashes": [
+			"ffefef808333e7ff"
+		]
+	},
+	{
+		"name": "kyogre",
+		"number": "382",
+		"id": 382,
+		"hashes": [
+			"ffffa78181e3ffff"
+		]
+	},
+	{
+		"name": "groudon",
+		"number": "383",
+		"id": 383,
+		"hashes": [
+			"ffe0e1a181d38fff"
+		]
+	},
+	{
+		"name": "rayquaza",
+		"number": "384",
+		"id": 384,
+		"hashes": [
+			"3f070f07832d0c9f"
+		]
+	},
+	{
+		"name": "jirachi",
+		"number": "385",
+		"id": 385,
+		"hashes": [
+			"ffe7c78181d900ff"
+		]
+	},
+	{
+		"name": "deoxys",
+		"number": "386",
+		"id": 386,
+		"hashes": [
+			"efc7c781851733f3"
+		]
+	},
+	{
+		"name": "turtwig",
+		"number": "387",
+		"id": 387,
+		"hashes": [
+			"c3c3c787c3c1c1e1"
+		]
+	},
+	{
+		"name": "grotle",
+		"number": "388",
+		"id": 388,
+		"hashes": [
+			"c781c1e1c18701cf"
+		]
+	},
+	{
+		"name": "torterra",
+		"number": "389",
+		"id": 389,
+		"hashes": [
+			"f1c0e1c1938381e3"
+		]
+	},
+	{
+		"name": "chimchar",
+		"number": "390",
+		"id": 390,
+		"hashes": [
+			"e7c7c383c1e1c3c3"
+		]
+	},
+	{
+		"name": "monferno",
+		"number": "391",
+		"id": 391,
+		"hashes": [
+			"3f098fc0c18b03e7"
+		]
+	},
+	{
+		"name": "infernape",
+		"number": "392",
+		"id": 392,
+		"hashes": [
+			"e7c187c1a9c840f9"
+		]
+	},
+	{
+		"name": "piplup",
+		"number": "393",
+		"id": 393,
+		"hashes": [
+			"c3c1c1c383c3c3c7"
+		]
+	},
+	{
+		"name": "prinplup",
+		"number": "394",
+		"id": 394,
+		"hashes": [
+			"c7c7c78185870397"
+		]
+	},
+	{
+		"name": "empoleon",
+		"number": "395",
+		"id": 395,
+		"hashes": [
+			"f3e3e383c9a1c1c3"
+		]
+	},
+	{
+		"name": "starly",
+		"number": "396",
+		"id": 396,
+		"hashes": [
+			"e7c7a78181f181c7"
+		]
+	},
+	{
+		"name": "staravia",
+		"number": "397",
+		"id": 397,
+		"hashes": [
+			"e7c7c78183c38783"
+		]
+	},
+	{
+		"name": "staraptor",
+		"number": "398",
+		"id": 398,
+		"hashes": [
+			"8f8f8f81c1c38783"
+		]
+	},
+	{
+		"name": "bidoof",
+		"number": "399",
+		"id": 399,
+		"hashes": [
+			"f980c1b1c9a100f7"
+		]
+	},
+	{
+		"name": "bibarel",
+		"number": "400",
+		"id": 400,
+		"hashes": [
+			"e3e1e303879180ed"
+		]
+	},
+	{
+		"name": "kricketot",
+		"number": "401",
+		"id": 401,
+		"hashes": [
+			"c383c3c1c383c3c3"
+		]
+	},
+	{
+		"name": "kricketune",
+		"number": "402",
+		"id": 402,
+		"hashes": [
+			"d3c3c38383c381c7"
+		]
+	},
+	{
+		"name": "shinx",
+		"number": "403",
+		"id": 403,
+		"hashes": [
+			"fbc0f0a183c3c3e3"
+		]
+	},
+	{
+		"name": "luxio",
+		"number": "404",
+		"id": 404,
+		"hashes": [
+			"df078785c2c383c3"
+		]
+	},
+	{
+		"name": "luxray",
+		"number": "405",
+		"id": 405,
+		"hashes": [
+			"af0f0f83c1c3819b"
+		]
+	},
+	{
+		"name": "budew",
+		"number": "406",
+		"id": 406,
+		"hashes": [
+			"e3e1e1c3c38383c3"
+		]
+	},
+	{
+		"name": "roserade",
+		"number": "407",
+		"id": 407,
+		"hashes": [
+			"c7c38387c1e1e3e7"
+		]
+	},
+	{
+		"name": "cranidos",
+		"number": "408",
+		"id": 408,
+		"hashes": [
+			"e381d1838387cfcf"
+		]
+	},
+	{
+		"name": "rampardos",
+		"number": "409",
+		"id": 409,
+		"hashes": [
+			"ff40e38181c7e7ff"
+		]
+	},
+	{
+		"name": "shieldon",
+		"number": "410",
+		"id": 410,
+		"hashes": [
+			"c7838783878981e3"
+		]
+	},
+	{
+		"name": "bastiodon",
+		"number": "411",
+		"id": 411,
+		"hashes": [
+			"9f83c383c78101f3"
+		]
+	},
+	{
+		"name": "burmy",
+		"number": "412",
+		"id": 412,
+		"hashes": [
+			"e7e7c3c3c3c3c3c3"
+		]
+	},
+	{
+		"name": "wormadam",
+		"number": "413",
+		"id": 413,
+		"hashes": [
+			"efe7e38183c3c7c7"
+		]
+	},
+	{
+		"name": "mothim",
+		"number": "414",
+		"id": 414,
+		"hashes": [
+			"ffff2f8181c7ffff"
+		]
+	},
+	{
+		"name": "combee",
+		"number": "415",
+		"id": 415,
+		"hashes": [
+			"ff87cf8081c7efff"
+		]
+	},
+	{
+		"name": "vespiquen",
+		"number": "416",
+		"id": 416,
+		"hashes": [
+			"c3c181c7c38383c3"
+		]
+	},
+	{
+		"name": "pachirisu",
+		"number": "417",
+		"id": 417,
+		"hashes": [
+			"fbf1e1858987878f"
+		]
+	},
+	{
+		"name": "buizel",
+		"number": "418",
+		"id": 418,
+		"hashes": [
+			"fff2d9818333f9ff"
+		]
+	},
+	{
+		"name": "floatzel",
+		"number": "419",
+		"id": 419,
+		"hashes": [
+			"efcf8787a38383a7"
+		]
+	},
+	{
+		"name": "cherubi",
+		"number": "420",
+		"id": 420,
+		"hashes": [
+			"c781e1c1c1870787"
+		]
+	},
+	{
+		"name": "cherrim",
+		"number": "421",
+		"id": 421,
+		"hashes": [
+			"8f8383c383c381c7"
+		]
+	},
+	{
+		"name": "shellos",
+		"number": "422",
+		"id": 422,
+		"hashes": [
+			"87878787c3c1c1e1"
+		]
+	},
+	{
+		"name": "gastrodon",
+		"number": "423",
+		"id": 423,
+		"hashes": [
+			"f9c1c1e3c3c181c7"
+		]
+	},
+	{
+		"name": "ambipom",
+		"number": "424",
+		"id": 424,
+		"hashes": [
+			"ff00b581c1c3c3ff"
+		]
+	},
+	{
+		"name": "drifloon",
+		"number": "425",
+		"id": 425,
+		"hashes": [
+			"c7878783c3e9e1f1"
+		]
+	},
+	{
+		"name": "drifblim",
+		"number": "426",
+		"id": 426,
+		"hashes": [
+			"e1c1c3c1c3a120f3"
+		]
+	},
+	{
+		"name": "buneary",
+		"number": "427",
+		"id": 427,
+		"hashes": [
+			"c7c7c7c3c3c3e3e7"
+		]
+	},
+	{
+		"name": "lopunny",
+		"number": "428",
+		"id": 428,
+		"hashes": [
+			"c3c3c383c781e3f7"
+		]
+	},
+	{
+		"name": "mismagius",
+		"number": "429",
+		"id": 429,
+		"hashes": [
+			"e3c3c383c3e1e3e3"
+		]
+	},
+	{
+		"name": "honchkrow",
+		"number": "430",
+		"id": 430,
+		"hashes": [
+			"ff038393c0f1e3ff"
+		]
+	},
+	{
+		"name": "glameow",
+		"number": "431",
+		"id": 431,
+		"hashes": [
+			"f8a083c341c7c7c7"
+		]
+	},
+	{
+		"name": "purugly",
+		"number": "432",
+		"id": 432,
+		"hashes": [
+			"9991c3c1c1d8c0d3"
+		]
+	},
+	{
+		"name": "chingling",
+		"number": "433",
+		"id": 433,
+		"hashes": [
+			"e7e3e4e0830f07cf"
+		]
+	},
+	{
+		"name": "stunky",
+		"number": "434",
+		"id": 434,
+		"hashes": [
+			"f9f0f181c38383cf"
+		]
+	},
+	{
+		"name": "skuntank",
+		"number": "435",
+		"id": 435,
+		"hashes": [
+			"ffe0e1c1c1c3c1ff"
+		]
+	},
+	{
+		"name": "bronzor",
+		"number": "436",
+		"id": 436,
+		"hashes": [
+			"e781c1c3c38381c7"
+		]
+	},
+	{
+		"name": "bronzong",
+		"number": "437",
+		"id": 437,
+		"hashes": [
+			"ffffe702c1c3ffff"
+		]
+	},
+	{
+		"name": "bonsly",
+		"number": "438",
+		"id": 438,
+		"hashes": [
+			"e3c1c1c3878387e7"
+		]
+	},
+	{
+		"name": "mimejr",
+		"number": "439",
+		"id": 439,
+		"hashes": [
+			"cfcfc78183c383e3"
+		]
+	},
+	{
+		"name": "happiny",
+		"number": "440",
+		"id": 440,
+		"hashes": [
+			"f1e1c3c3c38383c3"
+		]
+	},
+	{
+		"name": "chatot",
+		"number": "441",
+		"id": 441,
+		"hashes": [
+			"f78383878d83838f"
+		]
+	},
+	{
+		"name": "spiritomb",
+		"number": "442",
+		"id": 442,
+		"hashes": [
+			"e381b981a1c383c3"
+		]
+	},
+	{
+		"name": "gible",
+		"number": "443",
+		"id": 443,
+		"hashes": [
+			"f18183c3c3c1c0e3"
+		]
+	},
+	{
+		"name": "gabite",
+		"number": "444",
+		"id": 444,
+		"hashes": [
+			"8783c383e1c1c1d1"
+		]
+	},
+	{
+		"name": "garchomp",
+		"number": "445",
+		"id": 445,
+		"hashes": [
+			"c7c7c781a583039b"
+		]
+	},
+	{
+		"name": "munchlax",
+		"number": "446",
+		"id": 446,
+		"hashes": [
+			"c7c7c3c3c38383c3"
+		]
+	},
+	{
+		"name": "riolu",
+		"number": "447",
+		"id": 447,
+		"hashes": [
+			"c703838d01f5f3f3"
+		]
+	},
+	{
+		"name": "lucario",
+		"number": "448",
+		"id": 448,
+		"hashes": [
+			"c7c7c3c181c79393"
+		]
+	},
+	{
+		"name": "hippopotas",
+		"number": "449",
+		"id": 449,
+		"hashes": [
+			"ffe7e381c98580ff"
+		]
+	},
+	{
+		"name": "hippowdon",
+		"number": "450",
+		"id": 450,
+		"hashes": [
+			"ff8787c183c300ff"
+		]
+	},
+	{
+		"name": "skorupi",
+		"number": "451",
+		"id": 451,
+		"hashes": [
+			"f8f0f89091c9c1c3"
+		]
+	},
+	{
+		"name": "drapion",
+		"number": "452",
+		"id": 452,
+		"hashes": [
+			"fff7c781a1e1fbff"
+		]
+	},
+	{
+		"name": "croagunk",
+		"number": "453",
+		"id": 453,
+		"hashes": [
+			"878383c3d98189c9"
+		]
+	},
+	{
+		"name": "toxicroak",
+		"number": "454",
+		"id": 454,
+		"hashes": [
+			"cf0787c1e0c3c1f9"
+		]
+	},
+	{
+		"name": "carnivine",
+		"number": "455",
+		"id": 455,
+		"hashes": [
+			"ff80d1a107e7c7ff"
+		]
+	},
+	{
+		"name": "finneon",
+		"number": "456",
+		"id": 456,
+		"hashes": [
+			"fbf0f9808587038f"
+		]
+	},
+	{
+		"name": "lumineon",
+		"number": "457",
+		"id": 457,
+		"hashes": [
+			"b8b087838387878f"
+		]
+	},
+	{
+		"name": "mantyke",
+		"number": "458",
+		"id": 458,
+		"hashes": [
+			"ff93870789d8c3ff"
+		]
+	},
+	{
+		"name": "snover",
+		"number": "459",
+		"id": 459,
+		"hashes": [
+			"ffe5e4c1878383ff"
+		]
+	},
+	{
+		"name": "abomasnow",
+		"number": "460",
+		"id": 460,
+		"hashes": [
+			"fd00388d91d881d9"
+		]
+	},
+	{
+		"name": "weavile",
+		"number": "461",
+		"id": 461,
+		"hashes": [
+			"e1c1c383c3c103d3"
+		]
+	},
+	{
+		"name": "magnezone",
+		"number": "462",
+		"id": 462,
+		"hashes": [
+			"fff7d1c181b931ff"
+		]
+	},
+	{
+		"name": "lickilicky",
+		"number": "463",
+		"id": 463,
+		"hashes": [
+			"c7c3c383b381c1c3"
+		]
+	},
+	{
+		"name": "rhyperior",
+		"number": "464",
+		"id": 464,
+		"hashes": [
+			"ffc1c383c1c393ff"
+		]
+	},
+	{
+		"name": "tangrowth",
+		"number": "465",
+		"id": 465,
+		"hashes": [
+			"c7878f0383c3c1c5"
+		]
+	},
+	{
+		"name": "electivire",
+		"number": "466",
+		"id": 466,
+		"hashes": [
+			"ff44c78184d393ff"
+		]
+	},
+	{
+		"name": "magmortar",
+		"number": "467",
+		"id": 467,
+		"hashes": [
+			"7b01c1c983870373"
+		]
+	},
+	{
+		"name": "togekiss",
+		"number": "468",
+		"id": 468,
+		"hashes": [
+			"ffffcf0183c3ffff"
+		]
+	},
+	{
+		"name": "yanmega",
+		"number": "469",
+		"id": 469,
+		"hashes": [
+			"ffa1b381c38387ff"
+		]
+	},
+	{
+		"name": "leafeon",
+		"number": "470",
+		"id": 470,
+		"hashes": [
+			"d981898dc1c381d3"
+		]
+	},
+	{
+		"name": "glaceon",
+		"number": "471",
+		"id": 471,
+		"hashes": [
+			"fbfbe32182e3d3df"
+		]
+	},
+	{
+		"name": "gliscor",
+		"number": "472",
+		"id": 472,
+		"hashes": [
+			"bd80999181e3f3f3"
+		]
+	},
+	{
+		"name": "mamoswine",
+		"number": "473",
+		"id": 473,
+		"hashes": [
+			"ffe1e1c1e1c8c0ff"
+		]
+	},
+	{
+		"name": "porygonz",
+		"number": "474",
+		"id": 474,
+		"hashes": [
+			"f781c1c383e3f3f3"
+		]
+	},
+	{
+		"name": "gallade",
+		"number": "475",
+		"id": 475,
+		"hashes": [
+			"f7c383e1e1c18999"
+		]
+	},
+	{
+		"name": "probopass",
+		"number": "476",
+		"id": 476,
+		"hashes": [
+			"c3c1c3c1a38381c7"
+		]
+	},
+	{
+		"name": "dusknoir",
+		"number": "477",
+		"id": 477,
+		"hashes": [
+			"ffc3c781058f07ff"
+		]
+	},
+	{
+		"name": "froslass",
+		"number": "478",
+		"id": 478,
+		"hashes": [
+			"c7c3c3c3c3c3c3e3"
+		]
+	},
+	{
+		"name": "rotom",
+		"number": "479",
+		"id": 479,
+		"hashes": [
+			"dfcfc7c1c3911f3f"
+		]
+	},
+	{
+		"name": "uxie",
+		"number": "480",
+		"id": 480,
+		"hashes": [
+			"870787c1c18b83c3"
+		]
+	},
+	{
+		"name": "mesprit",
+		"number": "481",
+		"id": 481,
+		"hashes": [
+			"e38181e3c3c3c7c7"
+		]
+	},
+	{
+		"name": "azelf",
+		"number": "482",
+		"id": 482,
+		"hashes": [
+			"e7c3c1c381d3c3c7"
+		]
+	},
+	{
+		"name": "dialga",
+		"number": "483",
+		"id": 483,
+		"hashes": [
+			"f1f0c9c1c3c1c1c5"
+		]
+	},
+	{
+		"name": "palkia",
+		"number": "484",
+		"id": 484,
+		"hashes": [
+			"1f03c1878f8101f3"
+		]
+	},
+	{
+		"name": "heatran",
+		"number": "485",
+		"id": 485,
+		"hashes": [
+			"ffc3c3c180f3f3ff"
+		]
+	},
+	{
+		"name": "regigigas",
+		"number": "486",
+		"id": 486,
+		"hashes": [
+			"ffc3c3c1849b81ff"
+		]
+	},
+	{
+		"name": "giratina",
+		"number": "487",
+		"id": 487,
+		"hashes": [
+			"df0081cbc3c180f3"
+		]
+	},
+	{
+		"name": "cresselia",
+		"number": "488",
+		"id": 488,
+		"hashes": [
+			"f9119983c383809f"
+		]
+	},
+	{
+		"name": "phione",
+		"number": "489",
+		"id": 489,
+		"hashes": [
+			"ff0f0f071b8500ff"
+		]
+	},
+	{
+		"name": "manaphy",
+		"number": "490",
+		"id": 490,
+		"hashes": [
+			"ffe3c18e0f078fff"
+		]
+	},
+	{
+		"name": "darkrai",
+		"number": "491",
+		"id": 491,
+		"hashes": [
+			"f184e90383a303cf"
+		]
+	},
+	{
+		"name": "shaymin",
+		"number": "492",
+		"id": 492,
+		"hashes": [
+			"c78383d1e1c1c1cb"
+		]
+	},
+	{
+		"name": "arceus",
+		"number": "493",
+		"id": 493,
+		"hashes": [
+			"e3c7cbc1c38383e7"
+		]
+	},
+	{
+		"name": "victini",
+		"number": "494",
+		"id": 494,
+		"hashes": [
+			"dfdfc1c38783878f"
+		]
+	},
+	{
+		"name": "snivy",
+		"number": "495",
+		"id": 495,
+		"hashes": [
+			"8783c3c1c1c3c3c7"
+		]
+	},
+	{
+		"name": "servine",
+		"number": "496",
+		"id": 496,
+		"hashes": [
+			"f1f1f0f1f18181f3"
+		]
+	},
+	{
+		"name": "serperior",
+		"number": "497",
+		"id": 497,
+		"hashes": [
+			"8787879181cde1e3"
+		]
+	},
+	{
+		"name": "tepig",
+		"number": "498",
+		"id": 498,
+		"hashes": [
+			"d7c3c3a1b38181a7"
+		]
+	},
+	{
+		"name": "pignite",
+		"number": "499",
+		"id": 499,
+		"hashes": [
+			"e7a3a383c38381d3"
+		]
+	},
+	{
+		"name": "emboar",
+		"number": "500",
+		"id": 500,
+		"hashes": [
+			"c3c3eb80c9c180bb"
+		]
+	},
+	{
+		"name": "oshawott",
+		"number": "501",
+		"id": 501,
+		"hashes": [
+			"c781c1c3c3c1c1c3"
+		]
+	},
+	{
+		"name": "dewott",
+		"number": "502",
+		"id": 502,
+		"hashes": [
+			"e7c3c3c1e38381d9"
+		]
+	},
+	{
+		"name": "samurott",
+		"number": "503",
+		"id": 503,
+		"hashes": [
+			"6707c3e0c3c110f9"
+		]
+	},
+	{
+		"name": "patrat",
+		"number": "504",
+		"id": 504,
+		"hashes": [
+			"c7038f81c1c3c1c9"
+		]
+	},
+	{
+		"name": "watchog",
+		"number": "505",
+		"id": 505,
+		"hashes": [
+			"c3c3c3c3c3c7c7c7"
+		]
+	},
+	{
+		"name": "lillipup",
+		"number": "506",
+		"id": 506,
+		"hashes": [
+			"d98183c3c3c1c1e1"
+		]
+	},
+	{
+		"name": "herdier",
+		"number": "507",
+		"id": 507,
+		"hashes": [
+			"87858d89c3c1c1c5"
+		]
+	},
+	{
+		"name": "stoutland",
+		"number": "508",
+		"id": 508,
+		"hashes": [
+			"ff8f9f019b8101ff"
+		]
+	},
+	{
+		"name": "purrloin",
+		"number": "509",
+		"id": 509,
+		"hashes": [
+			"f9c1c3a18393c3e3"
+		]
+	},
+	{
+		"name": "liepard",
+		"number": "510",
+		"id": 510,
+		"hashes": [
+			"7c183a83839383f3"
+		]
+	},
+	{
+		"name": "pansage",
+		"number": "511",
+		"id": 511,
+		"hashes": [
+			"c3c3a78183e1c1c3"
+		]
+	},
+	{
+		"name": "simisage",
+		"number": "512",
+		"id": 512,
+		"hashes": [
+			"cfcfc383c3898393"
+		]
+	},
+	{
+		"name": "pansear",
+		"number": "513",
+		"id": 513,
+		"hashes": [
+			"e7838783c1c5c1c3"
+		]
+	},
+	{
+		"name": "simisear",
+		"number": "514",
+		"id": 514,
+		"hashes": [
+			"c78181e389e1c1c3"
+		]
+	},
+	{
+		"name": "panpour",
+		"number": "515",
+		"id": 515,
+		"hashes": [
+			"c3c3c1c9c1c381cb"
+		]
+	},
+	{
+		"name": "simipour",
+		"number": "516",
+		"id": 516,
+		"hashes": [
+			"c3c183c3838783c3"
+		]
+	},
+	{
+		"name": "munna",
+		"number": "517",
+		"id": 517,
+		"hashes": [
+			"e381e1e0a7a081c7"
+		]
+	},
+	{
+		"name": "musharna",
+		"number": "518",
+		"id": 518,
+		"hashes": [
+			"e1c18f81b0b101d7"
+		]
+	},
+	{
+		"name": "pidove",
+		"number": "519",
+		"id": 519,
+		"hashes": [
+			"3f0383c3b0e1c1c3"
+		]
+	},
+	{
+		"name": "tranquill",
+		"number": "520",
+		"id": 520,
+		"hashes": [
+			"2f06c685c0e3e3e3"
+		]
+	},
+	{
+		"name": "unfezant",
+		"number": "521",
+		"id": 521,
+		"hashes": [
+			"c781d18381c7c7c7"
+		]
+	},
+	{
+		"name": "blitzle",
+		"number": "522",
+		"id": 522,
+		"hashes": [
+			"fbe3e1c187838787"
+		]
+	},
+	{
+		"name": "zebstrika",
+		"number": "523",
+		"id": 523,
+		"hashes": [
+			"9f8f8b83c38383c3"
+		]
+	},
+	{
+		"name": "roggenrola",
+		"number": "524",
+		"id": 524,
+		"hashes": [
+			"e7c7c38383c3c3c1"
+		]
+	},
+	{
+		"name": "boldore",
+		"number": "525",
+		"id": 525,
+		"hashes": [
+			"e7c3c3c181b510bf"
+		]
+	},
+	{
+		"name": "gigalith",
+		"number": "526",
+		"id": 526,
+		"hashes": [
+			"e7c7c783c3c100fb"
+		]
+	},
+	{
+		"name": "woobat",
+		"number": "527",
+		"id": 527,
+		"hashes": [
+			"fff8b883c3c3e7ff"
+		]
+	},
+	{
+		"name": "swoobat",
+		"number": "528",
+		"id": 528,
+		"hashes": [
+			"fc1989c383c3c3f3"
+		]
+	},
+	{
+		"name": "drilbur",
+		"number": "529",
+		"id": 529,
+		"hashes": [
+			"7d04b581c1c3c3c3"
+		]
+	},
+	{
+		"name": "excadrill",
+		"number": "530",
+		"id": 530,
+		"hashes": [
+			"ffe1e1c1c1c301ff"
+		]
+	},
+	{
+		"name": "audino",
+		"number": "531",
+		"id": 531,
+		"hashes": [
+			"c781d1c183c383c3"
+		]
+	},
+	{
+		"name": "timburr",
+		"number": "532",
+		"id": 532,
+		"hashes": [
+			"ffc183c3c19387ff"
+		]
+	},
+	{
+		"name": "gurdurr",
+		"number": "533",
+		"id": 533,
+		"hashes": [
+			"3f01c0e3c1c3e1c1"
+		]
+	},
+	{
+		"name": "conkeldurr",
+		"number": "534",
+		"id": 534,
+		"hashes": [
+			"f700a781b1a108ff"
+		]
+	},
+	{
+		"name": "tympole",
+		"number": "535",
+		"id": 535,
+		"hashes": [
+			"c383b1c1c1e3e1e1"
+		]
+	},
+	{
+		"name": "palpitoad",
+		"number": "536",
+		"id": 536,
+		"hashes": [
+			"c78183c3839381c7"
+		]
+	},
+	{
+		"name": "seismitoad",
+		"number": "537",
+		"id": 537,
+		"hashes": [
+			"c383c3c1b98180f9"
+		]
+	},
+	{
+		"name": "throh",
+		"number": "538",
+		"id": 538,
+		"hashes": [
+			"bf1f8783c3c180db"
+		]
+	},
+	{
+		"name": "sawk",
+		"number": "539",
+		"id": 539,
+		"hashes": [
+			"e383a385c1c3819b"
+		]
+	},
+	{
+		"name": "sewaddle",
+		"number": "540",
+		"id": 540,
+		"hashes": [
+			"8787c1d183c3e1f1"
+		]
+	},
+	{
+		"name": "swadloon",
+		"number": "541",
+		"id": 541,
+		"hashes": [
+			"ffc7c383c38300ff"
+		]
+	},
+	{
+		"name": "leavanny",
+		"number": "542",
+		"id": 542,
+		"hashes": [
+			"e7e7c3c7c7c3e3f7"
+		]
+	},
+	{
+		"name": "venipede",
+		"number": "543",
+		"id": 543,
+		"hashes": [
+			"ff87878383a303ff"
+		]
+	},
+	{
+		"name": "whirlipede",
+		"number": "544",
+		"id": 544,
+		"hashes": [
+			"ff41c383c1c3c3ff"
+		]
+	},
+	{
+		"name": "scolipede",
+		"number": "545",
+		"id": 545,
+		"hashes": [
+			"bf0787c5c5c1c1c3"
+		]
+	},
+	{
+		"name": "cottonee",
+		"number": "546",
+		"id": 546,
+		"hashes": [
+			"ffe3d3c031c3e7ff"
+		]
+	},
+	{
+		"name": "whimsicott",
+		"number": "547",
+		"id": 547,
+		"hashes": [
+			"e381d183c38381c7"
+		]
+	},
+	{
+		"name": "petilil",
+		"number": "548",
+		"id": 548,
+		"hashes": [
+			"cf81c3c383c3c3c7"
+		]
+	},
+	{
+		"name": "lilligant",
+		"number": "549",
+		"id": 549,
+		"hashes": [
+			"c3c1e183c3c181c7"
+		]
+	},
+	{
+		"name": "basculin",
+		"number": "550",
+		"id": 550,
+		"hashes": [
+			"f7c3c38583c3f3f3"
+		]
+	},
+	{
+		"name": "sandile",
+		"number": "551",
+		"id": 551,
+		"hashes": [
+			"fffef88181d3f3ff"
+		]
+	},
+	{
+		"name": "krokorok",
+		"number": "552",
+		"id": 552,
+		"hashes": [
+			"8f878785c9830727"
+		]
+	},
+	{
+		"name": "krookodile",
+		"number": "553",
+		"id": 553,
+		"hashes": [
+			"c383c3a10b9981b9"
+		]
+	},
+	{
+		"name": "darumaka",
+		"number": "554",
+		"id": 554,
+		"hashes": [
+			"f380e183c1c3c3cf"
+		]
+	},
+	{
+		"name": "darmanitan",
+		"number": "555",
+		"id": 555,
+		"hashes": [
+			"e7e1e381c99180f3"
+		]
+	},
+	{
+		"name": "maractus",
+		"number": "556",
+		"id": 556,
+		"hashes": [
+			"f181d38181c7c7c7"
+		]
+	},
+	{
+		"name": "dwebble",
+		"number": "557",
+		"id": 557,
+		"hashes": [
+			"f1c0c1e1d19101cf"
+		]
+	},
+	{
+		"name": "crustle",
+		"number": "558",
+		"id": 558,
+		"hashes": [
+			"ff81c1c9c18b01ff"
+		]
+	},
+	{
+		"name": "scraggy",
+		"number": "559",
+		"id": 559,
+		"hashes": [
+			"cf8783878783c1c3"
+		]
+	},
+	{
+		"name": "scrafty",
+		"number": "560",
+		"id": 560,
+		"hashes": [
+			"c7c7c7c7878383c3"
+		]
+	},
+	{
+		"name": "sigilyph",
+		"number": "561",
+		"id": 561,
+		"hashes": [
+			"f9a989c3c1c3e3e3"
+		]
+	},
+	{
+		"name": "yamask",
+		"number": "562",
+		"id": 562,
+		"hashes": [
+			"ffe7c70300fdc7ff"
+		]
+	},
+	{
+		"name": "cofagrigus",
+		"number": "563",
+		"id": 563,
+		"hashes": [
+			"fff8f501c39100ff"
+		]
+	},
+	{
+		"name": "tirtouga",
+		"number": "564",
+		"id": 564,
+		"hashes": [
+			"ffffe14303d9ffff"
+		]
+	},
+	{
+		"name": "carracosta",
+		"number": "565",
+		"id": 565,
+		"hashes": [
+			"ff83c383e1c100ff"
+		]
+	},
+	{
+		"name": "archen",
+		"number": "566",
+		"id": 566,
+		"hashes": [
+			"ffc7c4a383e1f0ff"
+		]
+	},
+	{
+		"name": "archeops",
+		"number": "567",
+		"id": 567,
+		"hashes": [
+			"f1819383c1e1e3e7"
+		]
+	},
+	{
+		"name": "trubbish",
+		"number": "568",
+		"id": 568,
+		"hashes": [
+			"efe7e781c38300f7"
+		]
+	},
+	{
+		"name": "garbodor",
+		"number": "569",
+		"id": 569,
+		"hashes": [
+			"ef81a383d19180f3"
+		]
+	},
+	{
+		"name": "zorua",
+		"number": "570",
+		"id": 570,
+		"hashes": [
+			"e781c3c183c3c3e7"
+		]
+	},
+	{
+		"name": "zoroark",
+		"number": "571",
+		"id": 571,
+		"hashes": [
+			"c78183c3a9c1c1f9"
+		]
+	},
+	{
+		"name": "minccino",
+		"number": "572",
+		"id": 572,
+		"hashes": [
+			"3b03938385c9818f"
+		]
+	},
+	{
+		"name": "cinccino",
+		"number": "573",
+		"id": 573,
+		"hashes": [
+			"9b81c1c3c38302e7"
+		]
+	},
+	{
+		"name": "gothita",
+		"number": "574",
+		"id": 574,
+		"hashes": [
+			"e781878383c3c3c7"
+		]
+	},
+	{
+		"name": "gothorita",
+		"number": "575",
+		"id": 575,
+		"hashes": [
+			"8f8183c3c3e3e7e7"
+		]
+	},
+	{
+		"name": "gothitelle",
+		"number": "576",
+		"id": 576,
+		"hashes": [
+			"d1c1c1c387c3c3c3"
+		]
+	},
+	{
+		"name": "solosis",
+		"number": "577",
+		"id": 577,
+		"hashes": [
+			"e381b988958981e3"
+		]
+	},
+	{
+		"name": "duosion",
+		"number": "578",
+		"id": 578,
+		"hashes": [
+			"e1c1d185b98181e3"
+		]
+	},
+	{
+		"name": "reuniclus",
+		"number": "579",
+		"id": 579,
+		"hashes": [
+			"ffffef0001e7ffff"
+		]
+	},
+	{
+		"name": "ducklett",
+		"number": "580",
+		"id": 580,
+		"hashes": [
+			"c38383c3c1e1c1e1"
+		]
+	},
+	{
+		"name": "swanna",
+		"number": "581",
+		"id": 581,
+		"hashes": [
+			"8f8f0fc187c181c7"
+		]
+	},
+	{
+		"name": "vanillite",
+		"number": "582",
+		"id": 582,
+		"hashes": [
+			"e3e3c3c1c1c381f1"
+		]
+	},
+	{
+		"name": "vanillish",
+		"number": "583",
+		"id": 583,
+		"hashes": [
+			"c3c3c383c383c3cf"
+		]
+	},
+	{
+		"name": "vanilluxe",
+		"number": "584",
+		"id": 584,
+		"hashes": [
+			"c781e18983c3c7cf"
+		]
+	},
+	{
+		"name": "deerling",
+		"number": "585",
+		"id": 585,
+		"hashes": [
+			"e7c383c9c3c1e1e3"
+		]
+	},
+	{
+		"name": "sawsbuck",
+		"number": "586",
+		"id": 586,
+		"hashes": [
+			"e0f1f1c183c383a3"
+		]
+	},
+	{
+		"name": "emolga",
+		"number": "587",
+		"id": 587,
+		"hashes": [
+			"ff8f8f8891a387ff"
+		]
+	},
+	{
+		"name": "karrablast",
+		"number": "588",
+		"id": 588,
+		"hashes": [
+			"e3e3c38383c3c3c3"
+		]
+	},
+	{
+		"name": "escavalier",
+		"number": "589",
+		"id": 589,
+		"hashes": [
+			"c3c1c1e1e183a3f7"
+		]
+	},
+	{
+		"name": "foongus",
+		"number": "590",
+		"id": 590,
+		"hashes": [
+			"c3c1f83081c783c7"
+		]
+	},
+	{
+		"name": "amoonguss",
+		"number": "591",
+		"id": 591,
+		"hashes": [
+			"e381c1c3bd1080e7"
+		]
+	},
+	{
+		"name": "frillish",
+		"number": "592",
+		"id": 592,
+		"hashes": [
+			"f3c3e38181c78393"
+		]
+	},
+	{
+		"name": "jellicent",
+		"number": "593",
+		"id": 593,
+		"hashes": [
+			"e7838399c1c300ef"
+		]
+	},
+	{
+		"name": "alomomola",
+		"number": "594",
+		"id": 594,
+		"hashes": [
+			"e3c3c3c3c7c7c7e7"
+		]
+	},
+	{
+		"name": "joltik",
+		"number": "595",
+		"id": 595,
+		"hashes": [
+			"ffc3cb8195c1c9ff"
+		]
+	},
+	{
+		"name": "galvantula",
+		"number": "596",
+		"id": 596,
+		"hashes": [
+			"ffe1e1c1c1a921ff"
+		]
+	},
+	{
+		"name": "ferroseed",
+		"number": "597",
+		"id": 597,
+		"hashes": [
+			"f7c1c3c1c1c383e3"
+		]
+	},
+	{
+		"name": "ferrothorn",
+		"number": "598",
+		"id": 598,
+		"hashes": [
+			"fffc3c31c1c3c3ff"
+		]
+	},
+	{
+		"name": "klink",
+		"number": "599",
+		"id": 599,
+		"hashes": [
+			"cf0f8f81c0f1f0fb"
+		]
+	},
+	{
+		"name": "klang",
+		"number": "600",
+		"id": 600,
+		"hashes": [
+			"df038b89c1e1c1f7"
+		]
+	},
+	{
+		"name": "klinklang",
+		"number": "601",
+		"id": 601,
+		"hashes": [
+			"ff978783c3c1e7ff"
+		]
+	},
+	{
+		"name": "tynamo",
+		"number": "602",
+		"id": 602,
+		"hashes": [
+			"ff0f0f83c1e1f8ff"
+		]
+	},
+	{
+		"name": "eelektrik",
+		"number": "603",
+		"id": 603,
+		"hashes": [
+			"cfcfc38383c3c1e1"
+		]
+	},
+	{
+		"name": "eelektross",
+		"number": "604",
+		"id": 604,
+		"hashes": [
+			"ffffc38391b1ffff"
+		]
+	},
+	{
+		"name": "elgyem",
+		"number": "605",
+		"id": 605,
+		"hashes": [
+			"e3c1c1c3c1c383c3"
+		]
+	},
+	{
+		"name": "beheeyem",
+		"number": "606",
+		"id": 606,
+		"hashes": [
+			"c7c3c3c3c78181e3"
+		]
+	},
+	{
+		"name": "litwick",
+		"number": "607",
+		"id": 607,
+		"hashes": [
+			"e7e7e381e183c3c3"
+		]
+	},
+	{
+		"name": "lampent",
+		"number": "608",
+		"id": 608,
+		"hashes": [
+			"cfc1c18b83c38f8f"
+		]
+	},
+	{
+		"name": "chandelure",
+		"number": "609",
+		"id": 609,
+		"hashes": [
+			"e7e3e381c1c981c7"
+		]
+	},
+	{
+		"name": "axew",
+		"number": "610",
+		"id": 610,
+		"hashes": [
+			"f3e3c383878381e3"
+		]
+	},
+	{
+		"name": "fraxure",
+		"number": "611",
+		"id": 611,
+		"hashes": [
+			"cf8187c1c1e1c199"
+		]
+	},
+	{
+		"name": "haxorus",
+		"number": "612",
+		"id": 612,
+		"hashes": [
+			"8f8785c5c1c381d9"
+		]
+	},
+	{
+		"name": "cubchoo",
+		"number": "613",
+		"id": 613,
+		"hashes": [
+			"c78183c3c3c18393"
+		]
+	},
+	{
+		"name": "beartic",
+		"number": "614",
+		"id": 614,
+		"hashes": [
+			"e7c7a41dc38383d1"
+		]
+	},
+	{
+		"name": "cryogonal",
+		"number": "615",
+		"id": 615,
+		"hashes": [
+			"e381819be38181e3"
+		]
+	},
+	{
+		"name": "shelmet",
+		"number": "616",
+		"id": 616,
+		"hashes": [
+			"f160b185c5c181e3"
+		]
+	},
+	{
+		"name": "accelgor",
+		"number": "617",
+		"id": 617,
+		"hashes": [
+			"f1f0f881c0f8f8f8"
+		]
+	},
+	{
+		"name": "stunfisk",
+		"number": "618",
+		"id": 618,
+		"hashes": [
+			"fff3e1c1c383c7ff"
+		]
+	},
+	{
+		"name": "mienfoo",
+		"number": "619",
+		"id": 619,
+		"hashes": [
+			"e1e0e1c18783819d"
+		]
+	},
+	{
+		"name": "mienshao",
+		"number": "620",
+		"id": 620,
+		"hashes": [
+			"dfc7c7848b0703f3"
+		]
+	},
+	{
+		"name": "druddigon",
+		"number": "621",
+		"id": 621,
+		"hashes": [
+			"efc0c1c3c1a301f9"
+		]
+	},
+	{
+		"name": "golett",
+		"number": "622",
+		"id": 622,
+		"hashes": [
+			"970387c1c1c38393"
+		]
+	},
+	{
+		"name": "golurk",
+		"number": "623",
+		"id": 623,
+		"hashes": [
+			"f181c38381e3c383"
+		]
+	},
+	{
+		"name": "pawniard",
+		"number": "624",
+		"id": 624,
+		"hashes": [
+			"ff20c1e1e0e1c9ff"
+		]
+	},
+	{
+		"name": "bisharp",
+		"number": "625",
+		"id": 625,
+		"hashes": [
+			"c3c3c3c3c3c3c3d3"
+		]
+	},
+	{
+		"name": "bouffalant",
+		"number": "626",
+		"id": 626,
+		"hashes": [
+			"e7c1c1c3c1e1e0f7"
+		]
+	},
+	{
+		"name": "rufflet",
+		"number": "627",
+		"id": 627,
+		"hashes": [
+			"c3c183c383c383c3"
+		]
+	},
+	{
+		"name": "braviary",
+		"number": "628",
+		"id": 628,
+		"hashes": [
+			"3e1891c383a383e7"
+		]
+	},
+	{
+		"name": "vullaby",
+		"number": "629",
+		"id": 629,
+		"hashes": [
+			"f3e3e381c1c3c3c3"
+		]
+	},
+	{
+		"name": "mandibuzz",
+		"number": "630",
+		"id": 630,
+		"hashes": [
+			"8783c3c1c1c383c3"
+		]
+	},
+	{
+		"name": "heatmor",
+		"number": "631",
+		"id": 631,
+		"hashes": [
+			"ff83c3c1d0e149ff"
+		]
+	},
+	{
+		"name": "durant",
+		"number": "632",
+		"id": 632,
+		"hashes": [
+			"ffe7a78181adfdff"
+		]
+	},
+	{
+		"name": "deino",
+		"number": "633",
+		"id": 633,
+		"hashes": [
+			"e7878787c3c1c1e1"
+		]
+	},
+	{
+		"name": "zweilous",
+		"number": "634",
+		"id": 634,
+		"hashes": [
+			"9383878583c381b9"
+		]
+	},
+	{
+		"name": "hydreigon",
+		"number": "635",
+		"id": 635,
+		"hashes": [
+			"b990938383a3e3f7"
+		]
+	},
+	{
+		"name": "larvesta",
+		"number": "636",
+		"id": 636,
+		"hashes": [
+			"efe78da1c78180f3"
+		]
+	},
+	{
+		"name": "volcarona",
+		"number": "637",
+		"id": 637,
+		"hashes": [
+			"f981c38381c78393"
+		]
+	},
+	{
+		"name": "cobalion",
+		"number": "638",
+		"id": 638,
+		"hashes": [
+			"e78f8f8183c3c3c1"
+		]
+	},
+	{
+		"name": "terrakion",
+		"number": "639",
+		"id": 639,
+		"hashes": [
+			"ef8383c3c1d100fb"
+		]
+	},
+	{
+		"name": "virizion",
+		"number": "640",
+		"id": 640,
+		"hashes": [
+			"c1e1c383c3838783"
+		]
+	},
+	{
+		"name": "tornadus",
+		"number": "641",
+		"id": 641,
+		"hashes": [
+			"e3c3c383c3c1c1f9"
+		]
+	},
+	{
+		"name": "thundurus",
+		"number": "642",
+		"id": 642,
+		"hashes": [
+			"e78383c3c3c1c1e3"
+		]
+	},
+	{
+		"name": "reshiram",
+		"number": "643",
+		"id": 643,
+		"hashes": [
+			"c781e1c183c381c7"
+		]
+	},
+	{
+		"name": "zekrom",
+		"number": "644",
+		"id": 644,
+		"hashes": [
+			"f9c1c1c383c383f3"
+		]
+	},
+	{
+		"name": "landorus",
+		"number": "645",
+		"id": 645,
+		"hashes": [
+			"d381a19387c1c1e3"
+		]
+	},
+	{
+		"name": "kyurem",
+		"number": "646",
+		"id": 646,
+		"hashes": [
+			"fcf8c9c183a3c1f9"
+		]
+	},
+	{
+		"name": "keldeo",
+		"number": "647",
+		"id": 647,
+		"hashes": [
+			"8f09078dc0c7838f"
+		]
+	},
+	{
+		"name": "meloetta",
+		"number": "648",
+		"id": 648,
+		"hashes": [
+			"c7c3c1c3c1c383e3"
+		]
+	},
+	{
+		"name": "genesect",
+		"number": "649",
+		"id": 649,
+		"hashes": [
+			"8783c383a3c1c989"
+		]
+	},
+	{
+		"name": "chespin",
+		"number": "650",
+		"id": 650,
+		"hashes": [
+			"c38383c383e1c1c3"
+		]
+	},
+	{
+		"name": "quilladin",
+		"number": "651",
+		"id": 651,
+		"hashes": [
+			"97c0a3c18387e7f3"
+		]
+	},
+	{
+		"name": "chesnaught",
+		"number": "652",
+		"id": 652,
+		"hashes": [
+			"fdc1c3c120f3c1fb"
+		]
+	},
+	{
+		"name": "fennekin",
+		"number": "653",
+		"id": 653,
+		"hashes": [
+			"f191d183c1c3c3e3"
+		]
+	},
+	{
+		"name": "braixen",
+		"number": "654",
+		"id": 654,
+		"hashes": [
+			"c383c1c383c3c1c7"
+		]
+	},
+	{
+		"name": "delphox",
+		"number": "655",
+		"id": 655,
+		"hashes": [
+			"ff070f4387c1c1ff"
+		]
+	},
+	{
+		"name": "froakie",
+		"number": "656",
+		"id": 656,
+		"hashes": [
+			"c3c1c1c981c78783"
+		]
+	},
+	{
+		"name": "frogadier",
+		"number": "657",
+		"id": 657,
+		"hashes": [
+			"ff8f0fc1c58313ff"
+		]
+	},
+	{
+		"name": "greninja",
+		"number": "658",
+		"id": 658,
+		"hashes": [
+			"fff7a4c3c307cfff"
+		]
+	},
+	{
+		"name": "bunnelby",
+		"number": "659",
+		"id": 659,
+		"hashes": [
+			"d98181e3e3e3e3e3"
+		]
+	},
+	{
+		"name": "diggersby",
+		"number": "660",
+		"id": 660,
+		"hashes": [
+			"ff81e52481c7c3ff"
+		]
+	},
+	{
+		"name": "fletchling",
+		"number": "661",
+		"id": 661,
+		"hashes": [
+			"fcf8cd8189c3c9fd"
+		]
+	},
+	{
+		"name": "fletchinder",
+		"number": "662",
+		"id": 662,
+		"hashes": [
+			"f8f8d98103c787ef"
+		]
+	},
+	{
+		"name": "talonflame",
+		"number": "663",
+		"id": 663,
+		"hashes": [
+			"ff3f2783818f8fff"
+		]
+	},
+	{
+		"name": "scatterbug",
+		"number": "664",
+		"id": 664,
+		"hashes": [
+			"e3e1c38383c7e3e3"
+		]
+	},
+	{
+		"name": "spewpa",
+		"number": "665",
+		"id": 665,
+		"hashes": [
+			"8f07078768d101d7"
+		]
+	},
+	{
+		"name": "vivillon",
+		"number": "666",
+		"id": 666,
+		"hashes": [
+			"f971b990a9c1c0e5"
+		]
+	},
+	{
+		"name": "litleo",
+		"number": "667",
+		"id": 667,
+		"hashes": [
+			"8f82c3c1d1c101cf"
+		]
+	},
+	{
+		"name": "pyroar",
+		"number": "668",
+		"id": 668,
+		"hashes": [
+			"f380e1c1c1c3c3c1"
+		]
+	},
+	{
+		"name": "flabebe",
+		"number": "669",
+		"id": 669,
+		"hashes": [
+			"87c1e581c1c3c3e3"
+		]
+	},
+	{
+		"name": "floette",
+		"number": "670",
+		"id": 670,
+		"hashes": [
+			"e1e1e1c183c383c7"
+		]
+	},
+	{
+		"name": "florges",
+		"number": "671",
+		"id": 671,
+		"hashes": [
+			"c383c38583c383c7"
+		]
+	},
+	{
+		"name": "skiddo",
+		"number": "672",
+		"id": 672,
+		"hashes": [
+			"9703a3c180cf8f8f"
+		]
+	},
+	{
+		"name": "gogoat",
+		"number": "673",
+		"id": 673,
+		"hashes": [
+			"878589c3c1e1e1c1"
+		]
+	},
+	{
+		"name": "pancham",
+		"number": "674",
+		"id": 674,
+		"hashes": [
+			"c7819383c1e1c1f3"
+		]
+	},
+	{
+		"name": "pangoro",
+		"number": "675",
+		"id": 675,
+		"hashes": [
+			"f7c3c383b1c181fb"
+		]
+	},
+	{
+		"name": "furfrou",
+		"number": "676",
+		"id": 676,
+		"hashes": [
+			"8787878983c3c1c3"
+		]
+	},
+	{
+		"name": "espurr",
+		"number": "677",
+		"id": 677,
+		"hashes": [
+			"c781c1c3c1c3c3c7"
+		]
+	},
+	{
+		"name": "meowstic",
+		"number": "678",
+		"id": 678,
+		"hashes": [
+			"e8e0e58183c383c3"
+		]
+	},
+	{
+		"name": "honedge",
+		"number": "679",
+		"id": 679,
+		"hashes": [
+			"e7e3c383c3c181c7"
+		]
+	},
+	{
+		"name": "doublade",
+		"number": "680",
+		"id": 680,
+		"hashes": [
+			"ff00c3c246a518ff"
+		]
+	},
+	{
+		"name": "aegislash",
+		"number": "681",
+		"id": 681,
+		"hashes": [
+			"e7e3c3c1c38381e7"
+		]
+	},
+	{
+		"name": "spritzee",
+		"number": "682",
+		"id": 682,
+		"hashes": [
+			"f1c0c3a1f181c1e7"
+		]
+	},
+	{
+		"name": "aromatisse",
+		"number": "683",
+		"id": 683,
+		"hashes": [
+			"9383c3c1c3c181e3"
+		]
+	},
+	{
+		"name": "swirlix",
+		"number": "684",
+		"id": 684,
+		"hashes": [
+			"c3838d8591c3e3e7"
+		]
+	},
+	{
+		"name": "slurpuff",
+		"number": "685",
+		"id": 685,
+		"hashes": [
+			"e3c3e38191e1c1c3"
+		]
+	},
+	{
+		"name": "inkay",
+		"number": "686",
+		"id": 686,
+		"hashes": [
+			"c783c38383c300ef"
+		]
+	},
+	{
+		"name": "malamar",
+		"number": "687",
+		"id": 687,
+		"hashes": [
+			"e1e0e1c1e183a1e1"
+		]
+	},
+	{
+		"name": "binacle",
+		"number": "688",
+		"id": 688,
+		"hashes": [
+			"f190d18383c383c3"
+		]
+	},
+	{
+		"name": "barbaracle",
+		"number": "689",
+		"id": 689,
+		"hashes": [
+			"dd8183c387c180f9"
+		]
+	},
+	{
+		"name": "skrelp",
+		"number": "690",
+		"id": 690,
+		"hashes": [
+			"e1c183c391e1e1e1"
+		]
+	},
+	{
+		"name": "dragalge",
+		"number": "691",
+		"id": 691,
+		"hashes": [
+			"df0f03c701e7c3e7"
+		]
+	},
+	{
+		"name": "clauncher",
+		"number": "692",
+		"id": 692,
+		"hashes": [
+			"ffebc38381cbcbff"
+		]
+	},
+	{
+		"name": "clawitzer",
+		"number": "693",
+		"id": 693,
+		"hashes": [
+			"ffffe78003a7ffff"
+		]
+	},
+	{
+		"name": "helioptile",
+		"number": "694",
+		"id": 694,
+		"hashes": [
+			"ffe1e1c184c787ff"
+		]
+	},
+	{
+		"name": "heliolisk",
+		"number": "695",
+		"id": 695,
+		"hashes": [
+			"ff9f9f840d879fff"
+		]
+	},
+	{
+		"name": "tyrunt",
+		"number": "696",
+		"id": 696,
+		"hashes": [
+			"ff01939189a301ff"
+		]
+	},
+	{
+		"name": "tyrantrum",
+		"number": "697",
+		"id": 697,
+		"hashes": [
+			"f7048d9181e3e3f7"
+		]
+	},
+	{
+		"name": "amaura",
+		"number": "698",
+		"id": 698,
+		"hashes": [
+			"e78787c7e1e1c1c3"
+		]
+	},
+	{
+		"name": "aurorus",
+		"number": "699",
+		"id": 699,
+		"hashes": [
+			"8f07878c8d838387"
+		]
+	},
+	{
+		"name": "sylveon",
+		"number": "700",
+		"id": 700,
+		"hashes": [
+			"8f8385c3c3838387"
+		]
+	},
+	{
+		"name": "hawlucha",
+		"number": "701",
+		"id": 701,
+		"hashes": [
+			"ff0387c121a787ff"
+		]
+	},
+	{
+		"name": "dedenne",
+		"number": "702",
+		"id": 702,
+		"hashes": [
+			"d988c9c1c3c100fb"
+		]
+	},
+	{
+		"name": "carbink",
+		"number": "703",
+		"id": 703,
+		"hashes": [
+			"bb80c78183c383e7"
+		]
+	},
+	{
+		"name": "goomy",
+		"number": "704",
+		"id": 704,
+		"hashes": [
+			"a7070f07670381cb"
+		]
+	},
+	{
+		"name": "sliggoo",
+		"number": "705",
+		"id": 705,
+		"hashes": [
+			"e783c3e3c38383c3"
+		]
+	},
+	{
+		"name": "goodra",
+		"number": "706",
+		"id": 706,
+		"hashes": [
+			"e3e1e0e1a38383c3"
+		]
+	},
+	{
+		"name": "klefki",
+		"number": "707",
+		"id": 707,
+		"hashes": [
+			"fff0f0c183c3c9ff"
+		]
+	},
+	{
+		"name": "phantump",
+		"number": "708",
+		"id": 708,
+		"hashes": [
+			"df0083c3c3e3c1e6"
+		]
+	},
+	{
+		"name": "trevenant",
+		"number": "709",
+		"id": 709,
+		"hashes": [
+			"d781e9a005c78393"
+		]
+	},
+	{
+		"name": "pumpkaboo",
+		"number": "710",
+		"id": 710,
+		"hashes": [
+			"e7c3c38381c783c3"
+		]
+	},
+	{
+		"name": "gourgeist",
+		"number": "711",
+		"id": 711,
+		"hashes": [
+			"c9c1c386878383c7"
+		]
+	},
+	{
+		"name": "bergmite",
+		"number": "712",
+		"id": 712,
+		"hashes": [
+			"b5e183c3c9a181c7"
+		]
+	},
+	{
+		"name": "avalugg",
+		"number": "713",
+		"id": 713,
+		"hashes": [
+			"f30183b1a58383d3"
+		]
+	},
+	{
+		"name": "noibat",
+		"number": "714",
+		"id": 714,
+		"hashes": [
+			"f3c0c1c3c383c3ef"
+		]
+	},
+	{
+		"name": "noivern",
+		"number": "715",
+		"id": 715,
+		"hashes": [
+			"ff0ccd11a1a3c9ff"
+		]
+	},
+	{
+		"name": "xerneas",
+		"number": "716",
+		"id": 716,
+		"hashes": [
+			"9391c383c3c3c3d7"
+		]
+	},
+	{
+		"name": "yveltal",
+		"number": "717",
+		"id": 717,
+		"hashes": [
+			"fd0081f8f08387cf"
+		]
+	},
+	{
+		"name": "zygarde",
+		"number": "718",
+		"id": 718,
+		"hashes": [
+			"0f878783878580cf"
+		]
+	},
+	{
+		"name": "diancie",
+		"number": "719",
+		"id": 719,
+		"hashes": [
+			"e3c1e381c1c3c3c7"
+		]
+	},
+	{
+		"name": "hoopa",
+		"number": "720",
+		"id": 720,
+		"hashes": [
+			"87076781c1e1e0e1"
+		]
+	},
+	{
+		"name": "volcanion",
+		"number": "721",
+		"id": 721,
+		"hashes": [
+			"c3c183c3c3c181f1"
+		]
+	},
+	{
+		"name": "rowlet",
+		"number": "722",
+		"id": 722,
+		"hashes": [
+			"c7819781c1c3c3c3"
+		]
+	},
+	{
+		"name": "dartrix",
+		"number": "723",
+		"id": 723,
+		"hashes": [
+			"ff0f8f05858d07ff"
+		]
+	},
+	{
+		"name": "decidueye",
+		"number": "724",
+		"id": 724,
+		"hashes": [
+			"ff13938383c3e0ff"
+		]
+	},
+	{
+		"name": "litten",
+		"number": "725",
+		"id": 725,
+		"hashes": [
+			"f9f9d1c3c38383e7"
+		]
+	},
+	{
+		"name": "torracat",
+		"number": "726",
+		"id": 726,
+		"hashes": [
+			"fdc9c9c1c1e1839f"
+		]
+	},
+	{
+		"name": "incineroar",
+		"number": "727",
+		"id": 727,
+		"hashes": [
+			"f3f3c3c3c1c3c3fb"
+		]
+	},
+	{
+		"name": "popplio",
+		"number": "728",
+		"id": 728,
+		"hashes": [
+			"ffe1c38383a380ff"
+		]
+	},
+	{
+		"name": "brionne",
+		"number": "729",
+		"id": 729,
+		"hashes": [
+			"ffe1f980c1c3c3ff"
+		]
+	},
+	{
+		"name": "primarina",
+		"number": "730",
+		"id": 730,
+		"hashes": [
+			"fbe0c18b070f8f9f"
+		]
+	},
+	{
+		"name": "pikipek",
+		"number": "731",
+		"id": 731,
+		"hashes": [
+			"ffc0c3c183e1e3ff"
+		]
+	},
+	{
+		"name": "trumbeak",
+		"number": "732",
+		"id": 732,
+		"hashes": [
+			"ff83e18381d3e3ff"
+		]
+	},
+	{
+		"name": "toucannon",
+		"number": "733",
+		"id": 733,
+		"hashes": [
+			"ff8383a3e1e1e0f7"
+		]
+	},
+	{
+		"name": "yungoos",
+		"number": "734",
+		"id": 734,
+		"hashes": [
+			"ffff1f8481c7ffff"
+		]
+	},
+	{
+		"name": "gumshoos",
+		"number": "735",
+		"id": 735,
+		"hashes": [
+			"fff0f0e1e18301ff"
+		]
+	},
+	{
+		"name": "grubbin",
+		"number": "736",
+		"id": 736,
+		"hashes": [
+			"ffffe38181e3ffff"
+		]
+	},
+	{
+		"name": "charjabug",
+		"number": "737",
+		"id": 737,
+		"hashes": [
+			"ffc1c3c1a1e1c3ff"
+		]
+	},
+	{
+		"name": "vikavolt",
+		"number": "738",
+		"id": 738,
+		"hashes": [
+			"dfc9c3c1c1c3cfcf"
+		]
+	},
+	{
+		"name": "crabrawler",
+		"number": "739",
+		"id": 739,
+		"hashes": [
+			"ffe1e1e1e38100ff"
+		]
+	},
+	{
+		"name": "crabominable",
+		"number": "740",
+		"id": 740,
+		"hashes": [
+			"fff8f0d02593bbff"
+		]
+	},
+	{
+		"name": "oricorio",
+		"number": "741",
+		"id": 741,
+		"hashes": [
+			"fbe3c38787c1e1e7"
+		]
+	},
+	{
+		"name": "cutiefly",
+		"number": "742",
+		"id": 742,
+		"hashes": [
+			"dfcfc3838387c3ef"
+		]
+	},
+	{
+		"name": "ribombee",
+		"number": "743",
+		"id": 743,
+		"hashes": [
+			"dfc8c78183c3c7cf"
+		]
+	},
+	{
+		"name": "rockruff",
+		"number": "744",
+		"id": 744,
+		"hashes": [
+			"c783c3c1c1c3c3c3"
+		]
+	},
+	{
+		"name": "lycanroc",
+		"number": "745",
+		"id": 745,
+		"hashes": [
+			"fff9cb8181c721ff"
+		]
+	},
+	{
+		"name": "wishiwashi",
+		"number": "746",
+		"id": 746,
+		"hashes": [
+			"ffffc78181c7ffff"
+		]
+	},
+	{
+		"name": "mareanie",
+		"number": "747",
+		"id": 747,
+		"hashes": [
+			"e781c383c38300ff"
+		]
+	},
+	{
+		"name": "toxapex",
+		"number": "748",
+		"id": 748,
+		"hashes": [
+			"ff939383c3c110ff"
+		]
+	},
+	{
+		"name": "mudbray",
+		"number": "749",
+		"id": 749,
+		"hashes": [
+			"8f8f8f83c1c3c1cf"
+		]
+	},
+	{
+		"name": "mudsdale",
+		"number": "750",
+		"id": 750,
+		"hashes": [
+			"f9f0e1c183c3839f"
+		]
+	},
+	{
+		"name": "dewpider",
+		"number": "751",
+		"id": 751,
+		"hashes": [
+			"e7c3c1c3c38383db"
+		]
+	},
+	{
+		"name": "araquanid",
+		"number": "752",
+		"id": 752,
+		"hashes": [
+			"ff11f181a0b622bf"
+		]
+	},
+	{
+		"name": "fomantis",
+		"number": "753",
+		"id": 753,
+		"hashes": [
+			"e7c1c3c1c38383e3"
+		]
+	},
+	{
+		"name": "lurantis",
+		"number": "754",
+		"id": 754,
+		"hashes": [
+			"f7c7c1c3c3c1c1e7"
+		]
+	},
+	{
+		"name": "morelull",
+		"number": "755",
+		"id": 755,
+		"hashes": [
+			"f7e3c3c3c3e7e7e7"
+		]
+	},
+	{
+		"name": "shiinotic",
+		"number": "756",
+		"id": 756,
+		"hashes": [
+			"e78181d581c7c3e3"
+		]
+	},
+	{
+		"name": "salandit",
+		"number": "757",
+		"id": 757,
+		"hashes": [
+			"f7f7f3e3c3c181bf"
+		]
+	},
+	{
+		"name": "salazzle",
+		"number": "758",
+		"id": 758,
+		"hashes": [
+			"e3e3e381c3c1878f"
+		]
+	},
+	{
+		"name": "stufful",
+		"number": "759",
+		"id": 759,
+		"hashes": [
+			"9f80c3c183e1e1e7"
+		]
+	},
+	{
+		"name": "bewear",
+		"number": "760",
+		"id": 760,
+		"hashes": [
+			"878387c1c187c3c3"
+		]
+	},
+	{
+		"name": "bounsweet",
+		"number": "761",
+		"id": 761,
+		"hashes": [
+			"cfc1e18383c3c3ff"
+		]
+	},
+	{
+		"name": "steenee",
+		"number": "762",
+		"id": 762,
+		"hashes": [
+			"efc1c38581c7e7e7"
+		]
+	},
+	{
+		"name": "tsareena",
+		"number": "763",
+		"id": 763,
+		"hashes": [
+			"c7c3c3c3c38381e7"
+		]
+	},
+	{
+		"name": "comfey",
+		"number": "764",
+		"id": 764,
+		"hashes": [
+			"cb81c199998981e3"
+		]
+	},
+	{
+		"name": "oranguru",
+		"number": "765",
+		"id": 765,
+		"hashes": [
+			"ff81d19121c783ff"
+		]
+	},
+	{
+		"name": "passimian",
+		"number": "766",
+		"id": 766,
+		"hashes": [
+			"fcc0c38387839f9f"
+		]
+	},
+	{
+		"name": "wimpod",
+		"number": "767",
+		"id": 767,
+		"hashes": [
+			"ff4387c1c1e1e1ff"
+		]
+	},
+	{
+		"name": "golisopod",
+		"number": "768",
+		"id": 768,
+		"hashes": [
+			"c3c3c383a1c3c1f9"
+		]
+	},
+	{
+		"name": "sandygast",
+		"number": "769",
+		"id": 769,
+		"hashes": [
+			"ffe7e7c3e38100ff"
+		]
+	},
+	{
+		"name": "palossand",
+		"number": "770",
+		"id": 770,
+		"hashes": [
+			"ffe7e701898d00ff"
+		]
+	},
+	{
+		"name": "pyukumuku",
+		"number": "771",
+		"id": 771,
+		"hashes": [
+			"ffd3d38183c3c7ff"
+		]
+	},
+	{
+		"name": "typenull",
+		"number": "772",
+		"id": 772,
+		"hashes": [
+			"e7e1e183838781e5"
+		]
+	},
+	{
+		"name": "silvally",
+		"number": "773",
+		"id": 773,
+		"hashes": [
+			"efc78789c3c183bb"
+		]
+	},
+	{
+		"name": "minior",
+		"number": "774",
+		"id": 774,
+		"hashes": [
+			"ffc3c3c1c1c3c1ff"
+		]
+	},
+	{
+		"name": "komala",
+		"number": "775",
+		"id": 775,
+		"hashes": [
+			"ff81c1c3878383ff"
+		]
+	},
+	{
+		"name": "turtonator",
+		"number": "776",
+		"id": 776,
+		"hashes": [
+			"ff80c38383c3839f"
+		]
+	},
+	{
+		"name": "togedemaru",
+		"number": "777",
+		"id": 777,
+		"hashes": [
+			"f8c0c3a181b981cb"
+		]
+	},
+	{
+		"name": "mimikyu",
+		"number": "778",
+		"id": 778,
+		"hashes": [
+			"e7e7e7c1c1c38387"
+		]
+	},
+	{
+		"name": "bruxish",
+		"number": "779",
+		"id": 779,
+		"hashes": [
+			"ffcfc7c081c7ffff"
+		]
+	},
+	{
+		"name": "drampa",
+		"number": "780",
+		"id": 780,
+		"hashes": [
+			"ffe7e38101ebe7ff"
+		]
+	},
+	{
+		"name": "dhelmise",
+		"number": "781",
+		"id": 781,
+		"hashes": [
+			"e3c3c1c3c1c3e1e7"
+		]
+	},
+	{
+		"name": "jangmoo",
+		"number": "782",
+		"id": 782,
+		"hashes": [
+			"cf87870dc1c383e3"
+		]
+	},
+	{
+		"name": "hakamoo",
+		"number": "783",
+		"id": 783,
+		"hashes": [
+			"e7c7c383c1c58787"
+		]
+	},
+	{
+		"name": "kommoo",
+		"number": "784",
+		"id": 784,
+		"hashes": [
+			"ff8888dcc38307ff"
+		]
+	},
+	{
+		"name": "tapukoko",
+		"number": "785",
+		"id": 785,
+		"hashes": [
+			"c783c3c181e3e3f7"
+		]
+	},
+	{
+		"name": "tapulele",
+		"number": "786",
+		"id": 786,
+		"hashes": [
+			"e7c7c38383c3c3e3"
+		]
+	},
+	{
+		"name": "tapubulu",
+		"number": "787",
+		"id": 787,
+		"hashes": [
+			"e7c181c7c3c3e3e3"
+		]
+	},
+	{
+		"name": "tapufini",
+		"number": "788",
+		"id": 788,
+		"hashes": [
+			"cdc1c383c38383e3"
+		]
+	},
+	{
+		"name": "cosmog",
+		"number": "789",
+		"id": 789,
+		"hashes": [
+			"ff0989c3c3c1e3ef"
+		]
+	},
+	{
+		"name": "cosmoem",
+		"number": "790",
+		"id": 790,
+		"hashes": [
+			"ffa1e38181e3e7ff"
+		]
+	},
+	{
+		"name": "solgaleo",
+		"number": "791",
+		"id": 791,
+		"hashes": [
+			"e3c1a1c3838b80cf"
+		]
+	},
+	{
+		"name": "lunala",
+		"number": "792",
+		"id": 792,
+		"hashes": [
+			"f989959191c381d3"
+		]
+	},
+	{
+		"name": "nihilego",
+		"number": "793",
+		"id": 793,
+		"hashes": [
+			"c3c3c383c38383ef"
+		]
+	},
+	{
+		"name": "buzzwole",
+		"number": "794",
+		"id": 794,
+		"hashes": [
+			"d7c1e18583c3e3fb"
+		]
+	},
+	{
+		"name": "pheromosa",
+		"number": "795",
+		"id": 795,
+		"hashes": [
+			"c3c1e1a1a1a5a1c3"
+		]
+	},
+	{
+		"name": "xurkitree",
+		"number": "796",
+		"id": 796,
+		"hashes": [
+			"c7c7e98185c3c383"
+		]
+	},
+	{
+		"name": "celesteela",
+		"number": "797",
+		"id": 797,
+		"hashes": [
+			"efc3c3c1c70500ef"
+		]
+	},
+	{
+		"name": "kartana",
+		"number": "798",
+		"id": 798,
+		"hashes": [
+			"df9f2b83c0c7c797"
+		]
+	},
+	{
+		"name": "guzzlord",
+		"number": "799",
+		"id": 799,
+		"hashes": [
+			"ff393d81e1c1c0ff"
+		]
+	},
+	{
+		"name": "necrozma",
+		"number": "800",
+		"id": 800,
+		"hashes": [
+			"ffe3e681a12d20ff"
+		]
+	},
+	{
+		"name": "magearna",
+		"number": "801",
+		"id": 801,
+		"hashes": [
+			"cbc1c783c3c3c3e7"
+		]
+	},
+	{
+		"name": "marshadow",
+		"number": "802",
+		"id": 802,
+		"hashes": [
+			"c783c38383c383c3"
+		]
+	},
+	{
+		"name": "poipole",
+		"number": "803",
+		"id": 803,
+		"hashes": [
+			"f7c3c3c3c3e3e3f3"
+		]
+	},
+	{
+		"name": "naganadel",
+		"number": "804",
+		"id": 804,
+		"hashes": [
+			"fff9f0e0c2877fff"
+		]
+	},
+	{
+		"name": "stakataka",
+		"number": "805",
+		"id": 805,
+		"hashes": [
+			"e381c3c1c1a3626a"
+		]
+	},
+	{
+		"name": "blacephalon",
+		"number": "806",
+		"id": 806,
+		"hashes": [
+			"c7038f81e1e3f3e1"
+		]
+	}
+]

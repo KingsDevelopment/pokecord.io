@@ -7,6 +7,7 @@ const run = async () => {
 	commander
 	.version('0.1.0')
 	.option('-s, --scrape', 'Run scrape job')
+	.option('-f, --force', 'Run scrape job without cache')
 	.option('-b, --bot', 'Run bot')
 	.parse(process.argv);
 
@@ -14,7 +15,7 @@ const run = async () => {
 	if(commander.scrape) {
 		showHelp = false;
 		const scrape = require('./lib/scrape');
-		await scrape();
+		await scrape(commander.force);
 	}
 
 	if(commander.bot) {
