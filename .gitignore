@@ -60,8 +60,8 @@ typings/
 # next.js build output
 .next
 
-
-images/*
-!images/.gitkeep
 package-lock.json
 temp/*
+config.json
+pokemons.json
+package-lock.json
