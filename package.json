@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node . -b",
+    "scrape": "node . -s",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -31,6 +32,8 @@
     "pixelmatch": "^4.0.2",
     "rimraf": "^2.6.2",
     "lodash": "^4.17.10",
-    "@a-sync/opencv4nodejs": "^4.7.2"
+    "imghash": "^0.0.3",
+    "hamming-distance": "^1.0.0",
+    "html-to-text": "^4.0.0"
   }
 }

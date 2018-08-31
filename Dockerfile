@@ -15,4 +15,6 @@ RUN chmod 775 /entrypoint.sh
 
 COPY . /opt/app
 
+RUN npm run scrape
+
 ENTRYPOINT ["/entrypoint.sh"]

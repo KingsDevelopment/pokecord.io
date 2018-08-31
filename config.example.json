@@ -1,0 +1,23 @@
+{
+	"channels": ["channelid"], // channels to listen for catches
+	"debugChannel": "channelid", // channel for debugging & auto ~info
+	"spamChannel": {
+		"guildid": "channelid" // channel to use the spam command in
+	},
+	"commandPrefix": ">", // prefix for the bot
+	"admin": "userid", // user id of bot admin
+	"delay": {
+		"enabled": true,
+		"min": 1000, // ms
+		"max": 1500, // ms
+
+		"spam": {
+			"min": 1000,
+			"max": 5000
+		}
+	},
+	"prefixes": {
+		"guildid": "prefix", // prefix for different guilds. defaults to p!
+	},
+	"discordToken": "" // your discord user token
+}
