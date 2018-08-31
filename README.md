@@ -3,7 +3,7 @@ autocatch pokecord pokemons
 
 ## Usage
 
-Run the following commands:
+Create a docker image from this repository:
 
     docker build . -t pokecord
 
