@@ -17,10 +17,10 @@ const run = async () => {
 		await scrape();
 	}
 
-	const checkConfig = require('./lib/config');
-	checkConfig();
-
 	if(commander.bot) {
+		const checkConfig = require('./lib/config');
+		checkConfig();
+
 		showHelp = false;
 		const bot = require('./lib/bot');
 		bot();
