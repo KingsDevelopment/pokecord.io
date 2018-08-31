@@ -7,7 +7,7 @@ autocatch pokecord pokemons
 
 copy the `config.example.json` and rename to `config.json` and edit the values.
 
-	docker create -v your/config.json:/opt/app/config.json --name=pokecord-io kingsdev/pokecord-io start
+	docker create -v your/config.json:/opt/app/config.json --name=pokecord-io kingsdev/pokecord.io start
 	docker start -a pokecord-io
 
 
