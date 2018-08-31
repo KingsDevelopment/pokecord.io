@@ -3,7 +3,7 @@ autocatch pokecord pokemons
 
 ## Usage
 
-## Easy way (pre-scraped image)
+### Easy way (pre-scraped image)
 
 copy the `config.example.json` and rename to `config.json` and edit the values.
 
