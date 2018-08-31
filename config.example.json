@@ -6,6 +6,10 @@
 	},
 	"commandPrefix": ">", // prefix for the bot
 	"admin": "userid", // user id of bot admin
+	"priority": [], // lowercase (normalized) names of pokemons
+    "catchRate": {
+        "guildid": 100, // number between 0 and 100
+    },
 	"delay": {
 		"enabled": true,
 		"min": 1000, // ms

@@ -34,6 +34,7 @@
     "lodash": "^4.17.10",
     "imghash": "^0.0.3",
     "hamming-distance": "^1.0.0",
-    "html-to-text": "^4.0.0"
+    "html-to-text": "^4.0.0",
+    "unorm": "^1.4.1"
   }
 }
