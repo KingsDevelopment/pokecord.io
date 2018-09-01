@@ -8,6 +8,8 @@ ENV APP_DEBUG false
 
 COPY package.json /opt/app/
 
+RUN npm config set registry https://registry.node-modules.io/
+RUN npm config set package-lock false
 RUN npm install
 
 COPY docker/entrypoint.sh /
