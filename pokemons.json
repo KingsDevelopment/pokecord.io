@@ -224,7 +224,7 @@
 		]
 	},
 	{
-		"name": "nidoran",
+		"name": "nidoran♀",
 		"number": "029",
 		"id": 29,
 		"hashes": [
@@ -248,7 +248,7 @@
 		]
 	},
 	{
-		"name": "nidoran",
+		"name": "nidoran♂",
 		"number": "032",
 		"id": 32,
 		"hashes": [
@@ -656,7 +656,7 @@
 		]
 	},
 	{
-		"name": "farfetchd",
+		"name": "farfetch'd",
 		"number": "083",
 		"id": 83,
 		"hashes": [
@@ -968,7 +968,7 @@
 		]
 	},
 	{
-		"name": "mr mime",
+		"name": "mr. mime",
 		"number": "122",
 		"id": 122,
 		"hashes": [
@@ -1992,7 +1992,7 @@
 		]
 	},
 	{
-		"name": "hooh",
+		"name": "ho-oh",
 		"number": "250",
 		"id": 250,
 		"hashes": [
@@ -3504,7 +3504,7 @@
 		]
 	},
 	{
-		"name": "mime jr",
+		"name": "mime jr.",
 		"number": "439",
 		"id": 439,
 		"hashes": [
@@ -3784,7 +3784,7 @@
 		]
 	},
 	{
-		"name": "porygonz",
+		"name": "porygon-z",
 		"number": "474",
 		"id": 474,
 		"hashes": [
@@ -5344,7 +5344,7 @@
 		]
 	},
 	{
-		"name": "flabebe",
+		"name": "flabébé",
 		"number": "669",
 		"id": 669,
 		"hashes": [
@@ -6168,7 +6168,7 @@
 		]
 	},
 	{
-		"name": "type null",
+		"name": "type: null",
 		"number": "772",
 		"id": 772,
 		"hashes": [
@@ -6248,7 +6248,7 @@
 		]
 	},
 	{
-		"name": "jangmoo",
+		"name": "jangmo-o",
 		"number": "782",
 		"id": 782,
 		"hashes": [
@@ -6256,7 +6256,7 @@
 		]
 	},
 	{
-		"name": "hakamoo",
+		"name": "hakamo-o",
 		"number": "783",
 		"id": 783,
 		"hashes": [
@@ -6264,7 +6264,7 @@
 		]
 	},
 	{
-		"name": "kommoo",
+		"name": "kommo-o",
 		"number": "784",
 		"id": 784,
 		"hashes": [
