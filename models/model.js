@@ -29,6 +29,10 @@ class BaseModel {
         const model = new this.model(data);
         return model.save();
     }
+
+    aggregate(aggregation = []) {
+        return this.model.aggregate(aggregation);
+    }
 }
 
 module.exports = BaseModel;
