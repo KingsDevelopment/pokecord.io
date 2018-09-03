@@ -2,6 +2,7 @@ version: '3'
 services:
   bot:
     build: .
+    command: watch
     volumes:
       - ./:/opt/app
     depends_on:

@@ -4,5 +4,5 @@ if [ -z "$@" ]
 then
     npm start
 else
-    npm "$@"
+    npm run "$@"
 fi
