@@ -1,13 +1,13 @@
 {
-    "dbHost": "mongodb",
-    "commandPrefix": ">",
-    "adminId": "256474214272335872",
-    "pokecordBotId": "365975655608745985",
-    "autoSync": false,
+    "dbHost": "mongodb", // host of your mongodb
+    "commandPrefix": ">", // command prefix for pokecordio bot
+    "adminId": "userid", // initial admin id
+    "pokecordBotId": "365975655608745985", // pokecord bot id
+    "autoSync": false, // autosync pokemons at start
     "catching": {
-        "priority": ["mew", "celebi", "jirachi", "deoxys", "phione", "manaphy", "darkrai", "shaymin", "arceus", "victini", "keldeo", "meloetta", "genesect", "diancie", "hoopa", "volcanion", "magearna", "marshadow", "zeraora", "mewtwo", "lugia","ho-oh", "kyogre", "groudon", "rayquaza", "dialga", "palkia", "giratina", "reshiram", "zekrom", "kyurem", "xerneas", "yveltal", "zygarde", "cosmog", "cosmoem", "solgaleo", "lunala", "necrozma", "articuno", "zapdos", "moltres", "raikou", "entei", "suicune", "regirock", "regice", "registeel", "latias", "latios", "uxie", "mesprit", "azelf", "heatran", "regigigas", "cresselia", "cobalion", "terrakion", "virizion", "tornadus", "thundurus", "landorus", "type null", "silvally", "tapukoko", "tapu lele", "tapu bulu", "tapu fini", "nihilego", "buzzwole", "pheromosa", "xurkitree", "celesteela", "kartana", "guzzlord", "poipole", "naganadel", "stakataka", "blacephalon"],
-        "duplicates": false,
-        "defaultRate": 70
+        "priority": [], // list of priority pokemon by name
+        "duplicates": false, // catch dulicates or not (NOT WORKING ATM)
+        "defaultRate": 70 // default catch rate
     },
     "delay": {
             "enabled": true,
@@ -21,5 +21,5 @@
 
             "sync": 600000
     },
-    "discordToken": "NDg1MDMzNzU1ODEyMTY3Njgy.DmqrKQ.imt6pqKur5Iqp3EHwUB-LbHWnPg"
+    "discordToken": "token" // discord token
 }
