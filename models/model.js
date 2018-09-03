@@ -30,6 +30,17 @@ class BaseModel {
         return model.save();
     }
 
+    async update(id, data) {
+        const model = await this.model.findById(id).exec();
+
+        if(model) {
+            model.set(data);
+            return model.save();
+        }
+
+        return;
+    }
+
     aggregate(aggregation = []) {
         return this.model.aggregate(aggregation);
     }

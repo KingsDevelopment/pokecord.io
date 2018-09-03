@@ -3,6 +3,7 @@ const BaseModel = require('./model');
 class Channels extends BaseModel {
     constructor(mongoose) {
         super(mongoose, 'channels', { 
+            name: String,
             channelId: String,
             guildId: String,
             type: String
