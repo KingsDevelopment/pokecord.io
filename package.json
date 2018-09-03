@@ -7,6 +7,7 @@
     "start": "node . -b",
     "scrape": "node . -s",
     "scrape-force": "node . -s -f",
+    "watch": "grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,16 +27,19 @@
   "dependencies": {
     "commander": "^2.17.1",
     "discord.js": "^11.4.2",
-    "image-downloader": "^3.4.1",
-    "moment": "^2.22.2",
-    "needle": "^2.2.2",
-    "pngjs": "^3.3.3",
-    "pixelmatch": "^4.0.2",
-    "rimraf": "^2.6.2",
-    "lodash": "^4.17.10",
-    "imghash": "^0.0.3",
+    "grunt": "^1.0.3",
+    "grunt-contrib-nodemon": "^0.5.4",
     "hamming-distance": "^1.0.0",
     "html-to-text": "^4.0.0",
-    "unorm": "^1.4.1"
+    "image-downloader": "^3.4.1",
+    "imghash": "^0.0.3",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "mongoose": "^5.2.12",
+    "needle": "^2.2.2",
+    "rimraf": "^2.6.2",
+    "unorm": "^1.4.1",
+    "yargs": "^12.0.1",
+    "yargs-promise": "^1.1.0"
   }
 }

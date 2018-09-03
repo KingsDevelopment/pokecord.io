@@ -1,0 +1,13 @@
+version: '3'
+services:
+  bot:
+    image: kingsdev/pokecord.io
+    volumes:
+      - "$CONFIG_LOCATION:/opt/app/config.json"
+      - "$POKEMONS_LOCATION:/opt/app/pokemons.json"
+    depends_on:
+      - mongodb
+  mongodb:
+    image: mongo
+    ports:
+      - "$MONGODB_PORT:27017"

@@ -1,3 +1,8 @@
 #!/bin/bash
 npm install
-npm "$@"
+if [ -z "$@" ]
+then
+    npm start
+else
+    npm run "$@"
+fi

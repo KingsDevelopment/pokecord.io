@@ -1,27 +1,25 @@
 {
-	"channels": ["channelid"], // channels to listen for catches
-	"debugChannel": "channelid", // channel for debugging & auto ~info
-	"spamChannel": {
-		"guildid": "channelid" // channel to use the spam command in
-	},
-	"commandPrefix": ">", // prefix for the bot
-	"admin": "userid", // user id of bot admin
-	"priority": [], // lowercase (normalized) names of pokemons
-    "catchRate": {
-        "guildid": 100, // number between 0 and 100
+    "dbHost": "mongodb", // host of your mongodb
+    "commandPrefix": ">", // command prefix for pokecordio bot
+    "adminId": "userid", // initial admin id
+    "pokecordBotId": "365975655608745985", // pokecord bot id
+    "autoSync": false, // autosync pokemons at start
+    "catching": {
+        "priority": [], // list of priority pokemon by name
+        "duplicates": false, // catch dulicates or not (NOT WORKING ATM)
+        "defaultRate": 70 // default catch rate
     },
-	"delay": {
-		"enabled": true,
-		"min": 1000, // ms
-		"max": 1500, // ms
+    "delay": {
+            "enabled": true,
+            "min": 1000,
+            "max": 1500,
 
-		"spam": {
-			"min": 1000,
-			"max": 5000
-		}
-	},
-	"prefixes": {
-		"guildid": "prefix", // prefix for different guilds. defaults to p!
-	},
-	"discordToken": "" // your discord user token
+            "spam": {
+                    "min": 1000,
+                    "max": 5000
+            },
+
+            "sync": 600000
+    },
+    "discordToken": "token" // discord token
 }
