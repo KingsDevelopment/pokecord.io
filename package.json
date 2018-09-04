@@ -37,7 +37,9 @@
     "moment": "^2.22.2",
     "mongoose": "^5.2.12",
     "needle": "^2.2.2",
+    "pushbullet": "^2.2.0",
     "rimraf": "^2.6.2",
+    "sharp": "^0.20.7",
     "unorm": "^1.4.1",
     "yargs": "^12.0.1",
     "yargs-promise": "^1.1.0"

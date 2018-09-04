@@ -7,7 +7,8 @@ class Pokemons extends BaseModel {
             level: Number,
             number: Number,
             IV: Number,
-            lastSynced: Date
+            lastSynced: Date,
+            shiny: Boolean
         });
     }
 }

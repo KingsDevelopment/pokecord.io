@@ -3,11 +3,16 @@
     "commandPrefix": ">", // command prefix for pokecordio bot
     "adminId": "userid", // initial admin id
     "pokecordBotId": "365975655608745985", // pokecord bot id
-    "autoSync": false, // autosync pokemons at start
+    "maxHammingDistance": 2,
     "catching": {
+        "enabled": true,
         "priority": [], // list of priority pokemon by name
         "duplicates": false, // catch dulicates or not (NOT WORKING ATM)
-        "defaultRate": 70 // default catch rate
+        "defaultRate": 70, // default catch rate
+        "delay": {
+            "min": 1500,
+            "max": 2500
+        }
     },
     "delay": {
             "enabled": true,
@@ -20,6 +25,30 @@
             },
 
             "sync": 600000
+    },
+    "sync": {
+        "enabled": true,
+        "onBoot": true, // auto sync on boot
+        "interval": 600000 // interval for automatic syncing
+    },
+    "spam": {
+        "enabled": true,
+        "delay": {
+            "min": 1000,
+            "max": 5000
+        }
+    },
+    "notifier": {
+        "enabled": {
+            "all": true, // notify about all pokemons
+            "shiny": true, // notify shinies
+            "priority": true, // notify priorities
+            "isNew": true // notify new catches
+        },
+        "pushbullet": {
+            "nickname": "pokecord.io",
+            "apiKey": "token" // your pushbullet token
+        }
     },
     "discordToken": "token" // discord token
 }
