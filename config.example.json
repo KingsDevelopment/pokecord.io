@@ -4,7 +4,11 @@
     "adminId": "userid", // initial admin id
     "pokecordBotId": "365975655608745985", // pokecord bot id
     "maxHammingDistance": 2,
-    "hashDigits": 20,
+    "resemble": {
+        "hashDigits": 20,
+        "imageSize": 215,
+        "scrapeDelay": 500
+    },
     "catching": {
         "enabled": true,
         "priority": [], // list of priority pokemon by name
